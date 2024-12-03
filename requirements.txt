@@ -1,0 +1,7 @@
+pandas
+numpy
+math
+sys
+matplotlib
+scipy
+talib
