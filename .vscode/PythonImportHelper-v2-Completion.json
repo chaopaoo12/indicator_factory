@@ -1,0 +1,2721 @@
+[
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "base",
+        "description": "base",
+        "isExtraImport": true,
+        "detail": "base",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_VR",
+        "importPath": "indicators",
+        "description": "indicators",
+        "isExtraImport": true,
+        "detail": "indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_VRSI",
+        "importPath": "indicators",
+        "description": "indicators",
+        "isExtraImport": true,
+        "detail": "indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_VSTD",
+        "importPath": "indicators",
+        "description": "indicators",
+        "isExtraImport": true,
+        "detail": "indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_BOLL",
+        "importPath": "indicators",
+        "description": "indicators",
+        "isExtraImport": true,
+        "detail": "indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_MA",
+        "importPath": "indicators",
+        "description": "indicators",
+        "isExtraImport": true,
+        "detail": "indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_MA_VOL",
+        "importPath": "indicators",
+        "description": "indicators",
+        "isExtraImport": true,
+        "detail": "indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_ASI",
+        "importPath": "indicators",
+        "description": "indicators",
+        "isExtraImport": true,
+        "detail": "indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_OBV",
+        "importPath": "indicators",
+        "description": "indicators",
+        "isExtraImport": true,
+        "detail": "indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_PVT",
+        "importPath": "indicators",
+        "description": "indicators",
+        "isExtraImport": true,
+        "detail": "indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_VPT",
+        "importPath": "indicators",
+        "description": "indicators",
+        "isExtraImport": true,
+        "detail": "indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_KDJ",
+        "importPath": "indicators",
+        "description": "indicators",
+        "isExtraImport": true,
+        "detail": "indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_WR",
+        "importPath": "indicators",
+        "description": "indicators",
+        "isExtraImport": true,
+        "detail": "indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_ROC",
+        "importPath": "indicators",
+        "description": "indicators",
+        "isExtraImport": true,
+        "detail": "indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_RSI",
+        "importPath": "indicators",
+        "description": "indicators",
+        "isExtraImport": true,
+        "detail": "indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_CCI",
+        "importPath": "indicators",
+        "description": "indicators",
+        "isExtraImport": true,
+        "detail": "indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_BIAS",
+        "importPath": "indicators",
+        "description": "indicators",
+        "isExtraImport": true,
+        "detail": "indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_ADTM",
+        "importPath": "indicators",
+        "description": "indicators",
+        "isExtraImport": true,
+        "detail": "indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_DMI",
+        "importPath": "indicators",
+        "description": "indicators",
+        "isExtraImport": true,
+        "detail": "indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_PBX",
+        "importPath": "indicators",
+        "description": "indicators",
+        "isExtraImport": true,
+        "detail": "indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_BBI",
+        "importPath": "indicators",
+        "description": "indicators",
+        "isExtraImport": true,
+        "detail": "indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_MFI",
+        "importPath": "indicators",
+        "description": "indicators",
+        "isExtraImport": true,
+        "detail": "indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_DDI",
+        "importPath": "indicators",
+        "description": "indicators",
+        "isExtraImport": true,
+        "detail": "indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_shadow",
+        "importPath": "indicators",
+        "description": "indicators",
+        "isExtraImport": true,
+        "detail": "indicators",
+        "documentation": {}
+    },
+    {
+        "label": "indicator_factory.base",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "CROSS",
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "isExtraImport": true,
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "REF",
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "isExtraImport": true,
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "MA",
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "isExtraImport": true,
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "SUM",
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "isExtraImport": true,
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "LLV",
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "isExtraImport": true,
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "HHV",
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "isExtraImport": true,
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "ABS",
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "isExtraImport": true,
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "STD",
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "isExtraImport": true,
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "isExtraImport": true,
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "CDL2CROWS",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDL3BLACKCROWS",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDL3INSIDE",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDL3LINESTRIKE",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDL3OUTSIDE",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDL3STARSINSOUTH",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDL3WHITESOLDIERS",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLABANDONEDBABY",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLADVANCEBLOCK",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLBELTHOLD",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLBREAKAWAY",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLCLOSINGMARUBOZU",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLCONCEALBABYSWALL",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLCOUNTERATTACK",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLDARKCLOUDCOVER",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLDOJI",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLDOJISTAR",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLDRAGONFLYDOJI",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLENGULFING",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLEVENINGDOJISTAR",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLEVENINGSTAR",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLGAPSIDESIDEWHITE",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLGRAVESTONEDOJI",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLHAMMER",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLHANGINGMAN",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLHARAMI",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLHARAMICROSS",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLHIGHWAVE",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLHIKKAKE",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLHIKKAKEMOD",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLHOMINGPIGEON",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLIDENTICAL3CROWS",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLINNECK",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLINVERTEDHAMMER",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLKICKING",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLKICKINGBYLENGTH",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLLADDERBOTTOM",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLLONGLEGGEDDOJI",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLLONGLINE",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLMARUBOZU",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLMATCHINGLOW",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLMATHOLD",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLMORNINGDOJISTAR",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLMORNINGSTAR",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLONNECK",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLPIERCING",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLRICKSHAWMAN",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLRISEFALL3METHODS",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLSEPARATINGLINES",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLSHOOTINGSTAR",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLSHORTLINE",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLSPINNINGTOP",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLSTALLEDPATTERN",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLSTICKSANDWICH",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLTAKURI",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLTASUKIGAP",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLTHRUSTING",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLTRISTAR",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLUNIQUE3RIVER",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLUPSIDEGAP2CROWS",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLXSIDEGAP3METHODS",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "SAR",
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "isExtraImport": true,
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "stats",
+        "importPath": "scipy",
+        "description": "scipy",
+        "isExtraImport": true,
+        "detail": "scipy",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "find_packages",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "EMA",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def EMA(Series, N):\n    return pd.Series.ewm(Series, span=N, min_periods=N - 1, adjust=True).mean()\ndef MA(Series, N):\n    return pd.Series.rolling(Series, N).mean()\n# 威廉SMA  参考https://www.joinquant.com/post/867\ndef SMA(Series, N, M=1):\n    \"\"\"\n    威廉SMA算法\n    \"\"\"\n    ret = []",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "MA",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def MA(Series, N):\n    return pd.Series.rolling(Series, N).mean()\n# 威廉SMA  参考https://www.joinquant.com/post/867\ndef SMA(Series, N, M=1):\n    \"\"\"\n    威廉SMA算法\n    \"\"\"\n    ret = []\n    i = 1\n    length = len(Series)",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "SMA",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def SMA(Series, N, M=1):\n    \"\"\"\n    威廉SMA算法\n    \"\"\"\n    ret = []\n    i = 1\n    length = len(Series)\n    # 跳过X中前面几个 nan 值\n    while i < length:\n        if np.isnan(Series.iloc[i]):",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "DIFF",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def DIFF(Series, N=1):\n    return pd.Series(Series).diff(N)\ndef HHV(Series, N):\n    return pd.Series(Series).rolling(N).max()\ndef LLV(Series, N):\n    return pd.Series(Series).rolling(N).min()\ndef SUM(Series, N):\n    return pd.Series.rolling(Series, N).sum()\ndef ABS(Series):\n    return abs(Series)",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "HHV",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def HHV(Series, N):\n    return pd.Series(Series).rolling(N).max()\ndef LLV(Series, N):\n    return pd.Series(Series).rolling(N).min()\ndef SUM(Series, N):\n    return pd.Series.rolling(Series, N).sum()\ndef ABS(Series):\n    return abs(Series)\ndef MAX(A, B):\n    return IF(A > B, A, B)",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "LLV",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def LLV(Series, N):\n    return pd.Series(Series).rolling(N).min()\ndef SUM(Series, N):\n    return pd.Series.rolling(Series, N).sum()\ndef ABS(Series):\n    return abs(Series)\ndef MAX(A, B):\n    return IF(A > B, A, B)\ndef MIN(A, B):\n    return IF(A < B, A, B)",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "SUM",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def SUM(Series, N):\n    return pd.Series.rolling(Series, N).sum()\ndef ABS(Series):\n    return abs(Series)\ndef MAX(A, B):\n    return IF(A > B, A, B)\ndef MIN(A, B):\n    return IF(A < B, A, B)\ndef SINGLE_CROSS(A, B):\n    return A.iloc[-2] < B.iloc[-2] and A.iloc[-1] > B.iloc[-1]",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "ABS",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def ABS(Series):\n    return abs(Series)\ndef MAX(A, B):\n    return IF(A > B, A, B)\ndef MIN(A, B):\n    return IF(A < B, A, B)\ndef SINGLE_CROSS(A, B):\n    return A.iloc[-2] < B.iloc[-2] and A.iloc[-1] > B.iloc[-1]\ndef EXIST(Series, N=5):\n    '''",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "MAX",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def MAX(A, B):\n    return IF(A > B, A, B)\ndef MIN(A, B):\n    return IF(A < B, A, B)\ndef SINGLE_CROSS(A, B):\n    return A.iloc[-2] < B.iloc[-2] and A.iloc[-1] > B.iloc[-1]\ndef EXIST(Series, N=5):\n    '''\n    n日内是否存在某一值，\n    输入值为true or false的Series  ",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "MIN",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def MIN(A, B):\n    return IF(A < B, A, B)\ndef SINGLE_CROSS(A, B):\n    return A.iloc[-2] < B.iloc[-2] and A.iloc[-1] > B.iloc[-1]\ndef EXIST(Series, N=5):\n    '''\n    n日内是否存在某一值，\n    输入值为true or false的Series  \n    '''\n    res=pd.DataFrame(Series)+0",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "SINGLE_CROSS",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def SINGLE_CROSS(A, B):\n    return A.iloc[-2] < B.iloc[-2] and A.iloc[-1] > B.iloc[-1]\ndef EXIST(Series, N=5):\n    '''\n    n日内是否存在某一值，\n    输入值为true or false的Series  \n    '''\n    res=pd.DataFrame(Series)+0\n    res=res.rolling(N).sum()>0\n    return res[res.columns[0]]",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "EXIST",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def EXIST(Series, N=5):\n    '''\n    n日内是否存在某一值，\n    输入值为true or false的Series  \n    '''\n    res=pd.DataFrame(Series)+0\n    res=res.rolling(N).sum()>0\n    return res[res.columns[0]]\ndef EVERY(Series, N=5):\n    '''",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "EVERY",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def EVERY(Series, N=5):\n    '''\n    n日内是否一直存在某一值，\n    输入值为true or false的Series  \n    '''\n    res=pd.DataFrame(Series)+0\n    res=res.rolling(N).sum()>N-1\n    res=res[res.columns[0]]\n    return res\ndef CROSS(A, B):",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "CROSS",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def CROSS(A, B):\n    \"\"\"A<B then A>B  A上穿B B下穿A\n    Arguments:\n        A {[type]} -- [description]\n        B {[type]} -- [description]\n    Returns:\n        [type] -- [description]\n    \"\"\"\n    var = np.where(A < B, 1, 0)\n    try:",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "CROSS_STATUS",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def CROSS_STATUS(A, B):\n    \"\"\"\n    A 穿过 B 产生持续的 1 序列信号\n    \"\"\"\n    return np.where(A > B, 1, 0)\ndef FILTER(COND, N):\n    k1 = pd.Series(np.where(COND, 1, 0), index=COND.index)\n    idx = k1[k1 == 1].index.codes[0]\n    needfilter = pd.Series(idx, index=idx)\n    afterfilter = needfilter.diff().apply(lambda x: x >= N)",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "FILTER",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def FILTER(COND, N):\n    k1 = pd.Series(np.where(COND, 1, 0), index=COND.index)\n    idx = k1[k1 == 1].index.codes[0]\n    needfilter = pd.Series(idx, index=idx)\n    afterfilter = needfilter.diff().apply(lambda x: x >= N)\n    k1.iloc[afterfilter[afterfilter].index] = 2\n    return k1.apply(lambda x: 1 if x == 2 else 0)\ndef COUNT(COND, N):\n    \"\"\"\n    2018/05/23 修改",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "COUNT",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def COUNT(COND, N):\n    \"\"\"\n    2018/05/23 修改\n    参考https://github.com/QUANTAXIS/QUANTAXIS/issues/429\n    现在返回的是series\n    \"\"\"\n    return pd.Series(np.where(COND, 1, 0), index=COND.index).rolling(N).sum()\ndef IF(COND, V1, V2):\n    var = np.where(COND, V1, V2)\n    try:",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "IF",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def IF(COND, V1, V2):\n    var = np.where(COND, V1, V2)\n    try:\n        try:\n            index = V1.index\n        except:\n            index = COND.index\n    except:\n        index = V2.index\n    return pd.Series(var, index=index)",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "IFAND",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def IFAND(COND1, COND2, V1, V2):\n    var = np.where(np.logical_and(COND1, COND2), V1, V2)\n    return pd.Series(var, index=V1.index)\ndef IFOR(COND1, COND2, V1, V2):\n    var = np.where(np.logical_or(COND1, COND2), V1, V2)\n    return pd.Series(var, index=V1.index)\ndef REF(Series, N):\n    return Series.shift(N)\ndef LAST(COND, N1, N2):\n    \"\"\"表达持续性",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "IFOR",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def IFOR(COND1, COND2, V1, V2):\n    var = np.where(np.logical_or(COND1, COND2), V1, V2)\n    return pd.Series(var, index=V1.index)\ndef REF(Series, N):\n    return Series.shift(N)\ndef LAST(COND, N1, N2):\n    \"\"\"表达持续性\n    从前N1日到前N2日一直满足COND条件\n    Arguments:\n        COND {[type]} -- [description]",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "REF",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def REF(Series, N):\n    return Series.shift(N)\ndef LAST(COND, N1, N2):\n    \"\"\"表达持续性\n    从前N1日到前N2日一直满足COND条件\n    Arguments:\n        COND {[type]} -- [description]\n        N1 {[type]} -- [description]\n        N2 {[type]} -- [description]\n    \"\"\"",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "LAST",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def LAST(COND, N1, N2):\n    \"\"\"表达持续性\n    从前N1日到前N2日一直满足COND条件\n    Arguments:\n        COND {[type]} -- [description]\n        N1 {[type]} -- [description]\n        N2 {[type]} -- [description]\n    \"\"\"\n    N2 = 1 if N2 == 0 else N2\n    assert N2 > 0",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "STD",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def STD(Series, N):\n    return pd.Series.rolling(Series, N).std()\ndef AVEDEV(Series, N):\n    \"\"\"\n    平均绝对偏差 mean absolute deviation\n    修正: 2018-05-25 \n    之前用mad的计算模式依然返回的是单值\n    \"\"\"\n    return Series.rolling(N).apply(lambda x: (np.abs(x - x.mean())).mean(), raw=True)\ndef MACD(Series, FAST, SLOW, MID):",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "AVEDEV",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def AVEDEV(Series, N):\n    \"\"\"\n    平均绝对偏差 mean absolute deviation\n    修正: 2018-05-25 \n    之前用mad的计算模式依然返回的是单值\n    \"\"\"\n    return Series.rolling(N).apply(lambda x: (np.abs(x - x.mean())).mean(), raw=True)\ndef MACD(Series, FAST, SLOW, MID):\n    \"\"\"macd指标 仅适用于Series\n    对于DATAFRAME的应用请使用QA_indicator_macd",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "MACD",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def MACD(Series, FAST, SLOW, MID):\n    \"\"\"macd指标 仅适用于Series\n    对于DATAFRAME的应用请使用QA_indicator_macd\n    \"\"\"\n    EMAFAST = EMA(Series, FAST)\n    EMASLOW = EMA(Series, SLOW)\n    DIFF = EMAFAST - EMASLOW\n    DEA = EMA(DIFF, MID)\n    MACD = (DIFF - DEA) * 2\n    DICT = {'DIFF': DIFF, 'DEA': DEA, 'MACD': MACD}",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "BBIBOLL",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def BBIBOLL(Series, N1, N2, N3, N4, N, M):  # 多空布林线\n    bbiboll = BBI(Series, N1, N2, N3, N4)\n    UPER = bbiboll + M * STD(bbiboll, N)\n    DOWN = bbiboll - M * STD(bbiboll, N)\n    DICT = {'BBIBOLL': bbiboll, 'UPER': UPER, 'DOWN': DOWN}\n    VAR = pd.DataFrame(DICT)\n    return VAR\ndef BBI(Series, N1, N2, N3, N4):\n    '多空指标'\n    bbi = (MA(Series, N1) + MA(Series, N2) +",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "BBI",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def BBI(Series, N1, N2, N3, N4):\n    '多空指标'\n    bbi = (MA(Series, N1) + MA(Series, N2) +\n           MA(Series, N3) + MA(Series, N4)) / 4\n    DICT = {'BBI': bbi}\n    VAR = pd.DataFrame(DICT)\n    return VAR\ndef BARLAST(cond, yes=True):\n    \"\"\"支持MultiIndex的cond和DateTimeIndex的cond\n    条件成立  yes= True 或者 yes=1 根据不同的指标自己定",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "BARLAST",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def BARLAST(cond, yes=True):\n    \"\"\"支持MultiIndex的cond和DateTimeIndex的cond\n    条件成立  yes= True 或者 yes=1 根据不同的指标自己定\n    最后一次条件成立  到 当前到周期数\n    Arguments:\n        cond {[type]} -- [description]\n    \"\"\"\n    if isinstance(cond.index, pd.MultiIndex):\n        return len(cond)-cond.index.levels[0].tolist().index(cond[cond == yes].index[-1][0])-1\n    elif isinstance(cond.index, pd.DatetimeIndex):",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "BARLAST_EXIST",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def BARLAST_EXIST(cond, yes=True):\n    \"\"\"\n    上一次条件成立   持续到当前到数量\n    支持MultiIndex的cond和DateTimeIndex的cond\n    条件成立  yes= True 或者 yes=1 根据不同的指标自己定\n    Arguments:\n        cond {[type]} -- [description]\n    \"\"\"\n    if isinstance(cond.index, pd.MultiIndex):\n        return len(cond)-cond.index.levels[0].tolist().index(cond[cond != yes].index[-1][0])-1",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "XARROUND",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def XARROUND(x, y): return np.round(\n    y*(round(x/y-math.floor(x/y)+0.00000000001) + math.floor(x/y)), 2)\ndef RENKO(Series, N, condensed=True):\n    last_price = Series[0]\n    chart = [last_price]\n    for price in Series:\n        bricks = math.floor(abs(price-last_price)/N)\n        if bricks == 0:\n            if condensed:\n                chart.append(chart[-1])",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "RENKO",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def RENKO(Series, N, condensed=True):\n    last_price = Series[0]\n    chart = [last_price]\n    for price in Series:\n        bricks = math.floor(abs(price-last_price)/N)\n        if bricks == 0:\n            if condensed:\n                chart.append(chart[-1])\n            continue\n        sign = int(np.sign(price-last_price))",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "RENKOP",
+        "kind": 2,
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "peekOfCode": "def RENKOP(Series, N, condensed=True):\n    last_price = Series[0]\n    chart = [last_price]\n    for price in Series:\n        inc = (price-last_price)/last_price\n        #print(inc)\n        if abs(inc) < N:\n            # if condensed:\n            #     chart.append(chart[-1])\n            continue",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "RSanalysis",
+        "kind": 6,
+        "importPath": "indicator_factory.hurst",
+        "description": "indicator_factory.hurst",
+        "peekOfCode": "class RSanalysis:\n    '''Performs RS analysis on data stored in a List()'''\n    def __init__(self):\n        pass\n    def run(self, series, exponent=None):\n        '''\n        :type series: List\n        :type exponent: int\n        :rtype: float\n        '''",
+        "detail": "indicator_factory.hurst",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_MA",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_MA(DataFrame,*args,**kwargs):\n    \"\"\"MA\n    Arguments:\n        DataFrame {[type]} -- [description]\n    Returns:\n        [type] -- [description]\n    \"\"\"\n    CLOSE = DataFrame['close']\n    return pd.DataFrame({'MA{}'.format(N): MA(CLOSE, N)  for N in list(args)})\ndef QA_indicator_MA_VOL(DataFrame,*args,**kwargs):",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_MA_VOL",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_MA_VOL(DataFrame,*args,**kwargs):\n    \"\"\"MA_VOLU\n    Arguments:\n        DataFrame {[type]} -- [description]\n    Returns:\n        [type] -- [description]\n    \"\"\"\n    VOL = DataFrame['volume']\n    return pd.DataFrame({'MA_VOL{}'.format(N): MA(VOL, N)  for N in list(args)})\ndef QA_indicator_EMA(DataFrame, N):",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_EMA",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_EMA(DataFrame, N):\n    CLOSE = DataFrame['close']\n    return pd.DataFrame({'EMA': EMA(CLOSE, N)})\ndef QA_indicator_SMA(DataFrame, N):\n    CLOSE = DataFrame['close']\n    return pd.DataFrame({'SMA': SMA(CLOSE, N)})\ndef QA_indicator_MACD(DataFrame, short=12, long=26, mid=9):\n    \"\"\"\n    MACD CALC\n    \"\"\"",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_SMA",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_SMA(DataFrame, N):\n    CLOSE = DataFrame['close']\n    return pd.DataFrame({'SMA': SMA(CLOSE, N)})\ndef QA_indicator_MACD(DataFrame, short=12, long=26, mid=9):\n    \"\"\"\n    MACD CALC\n    \"\"\"\n    CLOSE = DataFrame['close']\n    DIF = EMA(CLOSE, short)-EMA(CLOSE, long)\n    DEA = EMA(DIF, mid)",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_MACD",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_MACD(DataFrame, short=12, long=26, mid=9):\n    \"\"\"\n    MACD CALC\n    \"\"\"\n    CLOSE = DataFrame['close']\n    DIF = EMA(CLOSE, short)-EMA(CLOSE, long)\n    DEA = EMA(DIF, mid)\n    MACD = (DIF-DEA)*2\n    return pd.DataFrame({'DIF': DIF, 'DEA': DEA, 'MACD': MACD})\ndef QA_indicator_DMI(DataFrame, M1=14, M2=6):",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_DMI",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_DMI(DataFrame, M1=14, M2=6):\n    \"\"\"\n    趋向指标 DMI\n    \"\"\"\n    HIGH = DataFrame.high\n    LOW = DataFrame.low\n    CLOSE = DataFrame.close\n    OPEN = DataFrame.open\n    TR = SUM(MAX(MAX(HIGH-LOW, ABS(HIGH-REF(CLOSE, 1))),\n                 ABS(LOW-REF(CLOSE, 1))), M1)",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_PBX",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_PBX(DataFrame, N1=3, N2=5, N3=8, N4=13, N5=18, N6=24):\n    '瀑布线'\n    C = DataFrame['close']\n    PBX1 = (EMA(C, N1) + EMA(C, 2 * N1) + EMA(C, 4 * N1)) / 3\n    PBX2 = (EMA(C, N2) + EMA(C, 2 * N2) + EMA(C, 4 * N2)) / 3\n    PBX3 = (EMA(C, N3) + EMA(C, 2 * N3) + EMA(C, 4 * N3)) / 3\n    PBX4 = (EMA(C, N4) + EMA(C, 2 * N4) + EMA(C, 4 * N4)) / 3\n    PBX5 = (EMA(C, N5) + EMA(C, 2 * N5) + EMA(C, 4 * N5)) / 3\n    PBX6 = (EMA(C, N6) + EMA(C, 2 * N6) + EMA(C, 4 * N6)) / 3\n    DICT = {'PBX1': PBX1, 'PBX2': PBX2, 'PBX3': PBX3,",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_DMA",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_DMA(DataFrame, M1=10, M2=50, M3=10):\n    \"\"\"\n    平均线差 DMA\n    \"\"\"\n    CLOSE = DataFrame.close\n    DDD = MA(CLOSE, M1) - MA(CLOSE, M2)\n    AMA = MA(DDD, M3)\n    return pd.DataFrame({\n        'DDD': DDD, 'AMA': AMA\n    })",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_MTM",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_MTM(DataFrame, N=12, M=6):\n    '动量线'\n    C = DataFrame.close\n    mtm = C - REF(C, N)\n    MTMMA = MA(mtm, M)\n    DICT = {'MTM': mtm, 'MTMMA': MTMMA}\n    return pd.DataFrame(DICT)\ndef QA_indicator_EXPMA(DataFrame, P1=5, P2=10, P3=20, P4=60):\n    \"\"\" 指数平均线 EXPMA\"\"\"\n    CLOSE = DataFrame.close",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_EXPMA",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_EXPMA(DataFrame, P1=5, P2=10, P3=20, P4=60):\n    \"\"\" 指数平均线 EXPMA\"\"\"\n    CLOSE = DataFrame.close\n    MA1 = EMA(CLOSE, P1)\n    MA2 = EMA(CLOSE, P2)\n    MA3 = EMA(CLOSE, P3)\n    MA4 = EMA(CLOSE, P4)\n    return pd.DataFrame({\n        'MA1': MA1, 'MA2': MA2, 'MA3': MA3, 'MA4': MA4\n    })",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_CHO",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_CHO(DataFrame, N1=10, N2=20, M=6):\n    \"\"\"\n    佳庆指标 CHO\n    \"\"\"\n    HIGH = DataFrame.high\n    LOW = DataFrame.low\n    CLOSE = DataFrame.close\n    VOL = DataFrame.volume\n    MID = SUM(VOL*(2*CLOSE-HIGH-LOW)/(HIGH+LOW), 0)\n    CHO = MA(MID, N1)-MA(MID, N2)",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_KDJ",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_KDJ(DataFrame, N=9, M1=3, M2=3):\n    C = DataFrame['close']\n    H = DataFrame['high']\n    L = DataFrame['low']\n    RSV = ((C - LLV(L, N)) / (HHV(H, N) - LLV(L, N)) * 100).groupby('code').fillna(method='ffill')\n    K = SMA(RSV, M1)\n    D = SMA(K, M2)\n    J = 3 * K - 2 * D\n    DICT = {'KDJ_K': K, 'KDJ_D': D, 'KDJ_J': J}\n    return pd.DataFrame(DICT)",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_BIAS",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_BIAS(DataFrame, N1, N2, N3):\n    '乖离率'\n    CLOSE = DataFrame['close']\n    BIAS1 = (CLOSE - MA(CLOSE, N1)) / MA(CLOSE, N1) * 100\n    BIAS2 = (CLOSE - MA(CLOSE, N2)) / MA(CLOSE, N2) * 100\n    BIAS3 = (CLOSE - MA(CLOSE, N3)) / MA(CLOSE, N3) * 100\n    DICT = {'BIAS1': BIAS1, 'BIAS2': BIAS2, 'BIAS3': BIAS3}\n    return pd.DataFrame(DICT)\ndef QA_indicator_ROC(DataFrame, N=12, M=6):\n    '变动率指标'",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_ROC",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_ROC(DataFrame, N=12, M=6):\n    '变动率指标'\n    C = DataFrame['close']\n    roc = 100 * (C - REF(C, N)) / REF(C, N)\n    ROCMA = MA(roc, M)\n    DICT = {'ROC': roc, 'ROCMA': ROCMA}\n    return pd.DataFrame(DICT)\ndef QA_indicator_CCI(DataFrame, N=14):\n    \"\"\"\n    TYP:=(HIGH+LOW+CLOSE)/3;",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_CCI",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_CCI(DataFrame, N=14):\n    \"\"\"\n    TYP:=(HIGH+LOW+CLOSE)/3;\n    CCI:(TYP-MA(TYP,N))/(0.015*AVEDEV(TYP,N));\n    \"\"\"\n    typ = (DataFrame['high'] + DataFrame['low'] + DataFrame['close']) / 3\n    ## 此处AVEDEV可能为0值  因此导致出错 +0.0000000000001\n    cci = ((typ - MA(typ, N)) / (0.015 * AVEDEV(typ, N) + 0.00000001))\n    a = 100\n    b = -100",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_WR",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_WR(DataFrame, N, N1):\n    '威廉指标'\n    HIGH = DataFrame['high']\n    LOW = DataFrame['low']\n    CLOSE = DataFrame['close']\n    WR1 = 100 * (HHV(HIGH, N) - CLOSE) / (HHV(HIGH, N) - LLV(LOW, N))\n    WR2 = 100 * (HHV(HIGH, N1) - CLOSE) / (HHV(HIGH, N1) - LLV(LOW, N1))\n    DICT = {'WR1': WR1, 'WR2': WR2}\n    return pd.DataFrame(DICT)\ndef QA_indicator_OSC(DataFrame, N=20, M=6):",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_OSC",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_OSC(DataFrame, N=20, M=6):\n    \"\"\"变动速率线\n    震荡量指标OSC，也叫变动速率线。属于超买超卖类指标,是从移动平均线原理派生出来的一种分析指标。\n    它反应当日收盘价与一段时间内平均收盘价的差离值,从而测出股价的震荡幅度。\n    按照移动平均线原理，根据OSC的值可推断价格的趋势，如果远离平均线，就很可能向平均线回归。\n    \"\"\"\n    C = DataFrame['close']\n    OS = (C - MA(C, N)) * 100\n    MAOSC = EMA(OS, M)\n    DICT = {'OSC': OS, 'MAOSC': MAOSC}",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_RSI",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_RSI(DataFrame, N1=12, N2=26, N3=9):\n    '相对强弱指标RSI1:SMA(MAX(CLOSE-LC,0),N1,1)/SMA(ABS(CLOSE-LC),N1,1)*100;'\n    CLOSE = DataFrame['close']\n    LC = REF(CLOSE, 1)\n    RSI1 = SMA(MAX(CLOSE - LC, 0), N1) / SMA(ABS(CLOSE - LC), N1) * 100\n    RSI2 = SMA(MAX(CLOSE - LC, 0), N2) / SMA(ABS(CLOSE - LC), N2) * 100\n    RSI3 = SMA(MAX(CLOSE - LC, 0), N3) / SMA(ABS(CLOSE - LC), N3) * 100\n    DICT = {'RSI1': RSI1, 'RSI2': RSI2, 'RSI3': RSI3}\n    return pd.DataFrame(DICT)\ndef QA_indicator_ADTM(DataFrame, N=23, M=8):",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_ADTM",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_ADTM(DataFrame, N=23, M=8):\n    '动态买卖气指标'\n    HIGH = DataFrame.high\n    LOW = DataFrame.low\n    OPEN = DataFrame.open\n    DTM = IF(OPEN > REF(OPEN, 1), MAX((HIGH - OPEN), (OPEN - REF(OPEN, 1))), 0)\n    DBM = IF(OPEN < REF(OPEN, 1), MAX((OPEN - LOW), (OPEN - REF(OPEN, 1))), 0)\n    STM = SUM(DTM, N)\n    SBM = SUM(DBM, N)\n    ADTM1 = IF(STM > SBM, (STM - SBM) / STM,",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_VR",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_VR(DataFrame, M1=26, M2=100, M3=200):\n    VOL = DataFrame.volume\n    CLOSE = DataFrame.close\n    LC = REF(CLOSE, 1)\n    VR = SUM(IF(CLOSE > LC, VOL, 0), M1)/SUM(IF(CLOSE <= LC, VOL, 0), M1)*100\n    a = M2\n    b = M3\n    return pd.DataFrame({\n        'VR': VR, 'a': a, 'b': b\n    })",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_VRSI",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_VRSI(DataFrame, N=6):\n    VOL = DataFrame.volume\n    vrsi = SMA(MAX(VOL-REF(VOL, 1), 0), N, 1) / \\\n        SMA(ABS(VOL-REF(VOL, 1)), N, 1)*100\n    return pd.DataFrame({'VRSI': vrsi})\ndef QA_indicator_CR(DataFrame, N=26, M1=5, M2=10, M3=20):\n    HIGH = DataFrame.high\n    LOW = DataFrame.low\n    CLOSE = DataFrame.close\n    VOL = DataFrame.volume",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_CR",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_CR(DataFrame, N=26, M1=5, M2=10, M3=20):\n    HIGH = DataFrame.high\n    LOW = DataFrame.low\n    CLOSE = DataFrame.close\n    VOL = DataFrame.volume\n    MID = (HIGH+LOW+CLOSE)/3\n    CR = SUM(MAX(0, HIGH-REF(MID, 1)), N)/SUM(MAX(0, REF(MID, 1)-LOW), N)*100\n    MA1 = REF(MA(CR, M1), M1/2.5+1)\n    MA2 = REF(MA(CR, M2), M2/2.5+1)\n    MA3 = REF(MA(CR, M3), M3/2.5+1)",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_ARBR",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_ARBR(DataFrame, M1=26, M2=70, M3=150):\n    HIGH = DataFrame.high\n    LOW = DataFrame.low\n    CLOSE = DataFrame.close\n    OPEN = DataFrame.open\n    AR = SUM(HIGH-OPEN, M1)/SUM(OPEN-LOW, M1)*100\n    BR = SUM(MAX(0, HIGH-REF(CLOSE, 1)), M1) / \\\n        SUM(MAX(0, REF(CLOSE, 1)-LOW), M1)*100\n    a = M2\n    b = M3",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_VSTD",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_VSTD(DataFrame, N=10):\n    VOL = DataFrame.volume\n    vstd = STD(VOL, N)\n    return pd.DataFrame({'VSTD': vstd})\n\"\"\"\n4.\t量价指标\n通过成交量和股价变动关系分析未来趋势\n震荡升降指标ASI\n价量趋势PVT\n能量潮OBV",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_ASI",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_ASI(DataFrame, M1=26, M2=10):\n    \"\"\"\n    LC=REF(CLOSE,1);\n    AA=ABS(HIGH-LC);\n    BB=ABS(LOW-LC);\n    CC=ABS(HIGH-REF(LOW,1));\n    DD=ABS(LC-REF(OPEN,1));\n    R=IF(AA>BB AND AA>CC,AA+BB/2+DD/4,IF(BB>CC AND BB>AA,BB+AA/2+DD/4,CC+DD/4));\n    X=(CLOSE-LC+(CLOSE-OPEN)/2+LC-REF(OPEN,1));\n    SI=16*X/R*MAX(AA,BB);",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_PVT",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_PVT(DataFrame):\n    CLOSE = DataFrame.close\n    VOL = DataFrame.volume\n    PVT = SUM((CLOSE-REF(CLOSE, 1))/REF(CLOSE, 1)*VOL, 0)\n    return pd.DataFrame({'PVT': PVT})\ndef QA_indicator_OBV(DataFrame):\n    \"\"\"能量潮\"\"\"\n    VOL = DataFrame.volume\n    CLOSE = DataFrame.close\n    return pd.DataFrame({",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_OBV",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_OBV(DataFrame):\n    \"\"\"能量潮\"\"\"\n    VOL = DataFrame.volume\n    CLOSE = DataFrame.close\n    return pd.DataFrame({\n        'OBV': np.cumsum(IF(CLOSE > REF(CLOSE, 1), VOL, IF(CLOSE < REF(CLOSE, 1), -VOL, 0)))/10000\n    })\ndef QA_indicator_VPT(DataFrame, N=51, M=6):\n    VOL = DataFrame.volume\n    CLOSE = DataFrame.close",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_VPT",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_VPT(DataFrame, N=51, M=6):\n    VOL = DataFrame.volume\n    CLOSE = DataFrame.close\n    VPT = SUM(VOL*(CLOSE-REF(CLOSE, 1))/REF(CLOSE, 1), 0)\n    MAVPT = MA(VPT, M)\n    return pd.DataFrame({\n        'VPT': VPT, 'MAVPT': MAVPT\n    })\n\"\"\"\n5.\t压力支撑指标",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_BOLL",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_BOLL(DataFrame, N=20, P=2):\n    '布林线'\n    C = DataFrame['close']\n    boll = MA(C, N)\n    UB = boll + P * STD(C, N)\n    LB = boll - P * STD(C, N)\n    DICT = {'BOLL': boll, 'UB': UB, 'LB': LB}\n    return pd.DataFrame(DICT)\ndef QA_indicator_MIKE(DataFrame, N=12):\n    \"\"\"",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_MIKE",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_MIKE(DataFrame, N=12):\n    \"\"\"\n    MIKE指标\n    指标说明\n    MIKE是另外一种形式的路径指标。\n    买卖原则\n    1  WEAK-S，MEDIUM-S，STRONG-S三条线代表初级、中级、强力支撑。\n    2  WEAK-R，MEDIUM-R，STRONG-R三条线代表初级、中级、强力压力。\n    \"\"\"\n    HIGH = DataFrame.high",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_BBI",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_BBI(DataFrame, N1=3, N2=6, N3=12, N4=24):\n    '多空指标'\n    C = DataFrame['close']\n    bbi = (MA(C, N1) + MA(C, N2) + MA(C, N3) + MA(C, N4)) / 4\n    DICT = {'BBI': bbi}\n    return pd.DataFrame(DICT)\ndef QA_indicator_MFI(DataFrame, N=14):\n    \"\"\"\n    资金指标\n    TYP := (HIGH + LOW + CLOSE)/3;",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_MFI",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_MFI(DataFrame, N=14):\n    \"\"\"\n    资金指标\n    TYP := (HIGH + LOW + CLOSE)/3;\n    V1:=SUM(IF(TYP>REF(TYP,1),TYP*VOL,0),N)/SUM(IF(TYP<REF(TYP,1),TYP*VOL,0),N);\n    MFI:100-(100/(1+V1));\n    赋值: (最高价 + 最低价 + 收盘价)/3\n    V1赋值:如果TYP>1日前的TYP,返回TYP*成交量(手),否则返回0的N日累和/如果TYP<1日前的TYP,返回TYP*成交量(手),否则返回0的N日累和\n    输出资金流量指标:100-(100/(1+V1))\n    \"\"\"",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_ATR",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_ATR(DataFrame, N=14):\n    \"\"\"\n    输出TR:(最高价-最低价)和昨收-最高价的绝对值的较大值和昨收-最低价的绝对值的较大值\n    输出真实波幅:TR的N日简单移动平均\n    算法：今日振幅、今日最高与昨收差价、今日最低与昨收差价中的最大值，为真实波幅，求真实波幅的N日移动平均\n    参数：N　天数，一般取14\n    \"\"\"\n    C = DataFrame['close']\n    H = DataFrame['high']\n    L = DataFrame['low']",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_SKDJ",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_SKDJ(DataFrame, N=9, M=3):\n    \"\"\"\n    1.指标>80 时，回档机率大；指标<20 时，反弹机率大；\n    2.K在20左右向上交叉D时，视为买进信号参考； \n    3.K在80左右向下交叉D时，视为卖出信号参考；\n    4.SKDJ波动于50左右的任何讯号，其作用不大。\n    \"\"\"\n    CLOSE = DataFrame['close']\n    LOWV = LLV(DataFrame['low'], N)\n    HIGHV = HHV(DataFrame['high'], N)",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_DDI",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_DDI(DataFrame, N=13, N1=26, M=1, M1=5):\n    \"\"\"\n    '方向标准离差指数'\n    分析DDI柱状线，由红变绿(正变负)，卖出信号参考；由绿变红，买入信号参考。\n    \"\"\"\n    H = DataFrame['high']\n    L = DataFrame['low']\n    DMZ = IF((H + L) > (REF(H, 1) + REF(L, 1)), \n             MAX(ABS(H - REF(H, 1)), ABS(L - REF(L, 1))), 0)\n    DMF = IF((H + L) < (REF(H, 1) + REF(L, 1)),",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_shadow",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def QA_indicator_shadow(DataFrame):\n    \"\"\"\n    上下影线指标\n    \"\"\"\n    return {\n        'LOW': lower_shadow(DataFrame), 'UP': upper_shadow(DataFrame),\n        'BODY': body(DataFrame), 'BODY_ABS': body_abs(DataFrame), 'PRICE_PCG': price_pcg(DataFrame)\n    }\ndef lower_shadow(DataFrame):  # 下影线\n    return abs(DataFrame.low - MIN(DataFrame.open, DataFrame.close))",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "lower_shadow",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def lower_shadow(DataFrame):  # 下影线\n    return abs(DataFrame.low - MIN(DataFrame.open, DataFrame.close))\ndef upper_shadow(DataFrame):  # 上影线\n    return abs(DataFrame.high - MAX(DataFrame.open, DataFrame.close))\ndef body_abs(DataFrame):\n    return abs(DataFrame.open - DataFrame.close)\ndef body(DataFrame):\n    return DataFrame.close - DataFrame.open\ndef price_pcg(DataFrame):\n    return body(DataFrame) / DataFrame.open",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "upper_shadow",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def upper_shadow(DataFrame):  # 上影线\n    return abs(DataFrame.high - MAX(DataFrame.open, DataFrame.close))\ndef body_abs(DataFrame):\n    return abs(DataFrame.open - DataFrame.close)\ndef body(DataFrame):\n    return DataFrame.close - DataFrame.open\ndef price_pcg(DataFrame):\n    return body(DataFrame) / DataFrame.open\ndef amplitude(DataFrame):\n    return (DataFrame.high - DataFrame.low) / DataFrame.low",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "body_abs",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def body_abs(DataFrame):\n    return abs(DataFrame.open - DataFrame.close)\ndef body(DataFrame):\n    return DataFrame.close - DataFrame.open\ndef price_pcg(DataFrame):\n    return body(DataFrame) / DataFrame.open\ndef amplitude(DataFrame):\n    return (DataFrame.high - DataFrame.low) / DataFrame.low\n\"\"\"\n6.\t大盘指标",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "body",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def body(DataFrame):\n    return DataFrame.close - DataFrame.open\ndef price_pcg(DataFrame):\n    return body(DataFrame) / DataFrame.open\ndef amplitude(DataFrame):\n    return (DataFrame.high - DataFrame.low) / DataFrame.low\n\"\"\"\n6.\t大盘指标\n通过涨跌家数研究大盘指数的走势\n涨跌比率 ADR",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "price_pcg",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def price_pcg(DataFrame):\n    return body(DataFrame) / DataFrame.open\ndef amplitude(DataFrame):\n    return (DataFrame.high - DataFrame.low) / DataFrame.low\n\"\"\"\n6.\t大盘指标\n通过涨跌家数研究大盘指数的走势\n涨跌比率 ADR\n绝对幅度指标 ABI\n新三价率 TBR",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "amplitude",
+        "kind": 2,
+        "importPath": "indicator_factory.indicators",
+        "description": "indicator_factory.indicators",
+        "peekOfCode": "def amplitude(DataFrame):\n    return (DataFrame.high - DataFrame.low) / DataFrame.low\n\"\"\"\n6.\t大盘指标\n通过涨跌家数研究大盘指数的走势\n涨跌比率 ADR\n绝对幅度指标 ABI\n新三价率 TBR\n腾落指数 ADL\n广量冲力指标",
+        "detail": "indicator_factory.indicators",
+        "documentation": {}
+    },
+    {
+        "label": "per25",
+        "kind": 2,
+        "importPath": "indicator_factory.QAIndicator",
+        "description": "indicator_factory.QAIndicator",
+        "peekOfCode": "def per25(x):\n    return(np.percentile(x, 25))\ndef per75(x):\n    return(np.percentile(x, 75))\ndef perc(x):\n    x = list(x)\n    tar = x[-1]\n    return(stats.percentileofscore(x, tar))\ndef QA_indicator_MACD(DataFrame, short=12, long=26, mid=9):\n    \"\"\"",
+        "detail": "indicator_factory.QAIndicator",
+        "documentation": {}
+    },
+    {
+        "label": "per75",
+        "kind": 2,
+        "importPath": "indicator_factory.QAIndicator",
+        "description": "indicator_factory.QAIndicator",
+        "peekOfCode": "def per75(x):\n    return(np.percentile(x, 75))\ndef perc(x):\n    x = list(x)\n    tar = x[-1]\n    return(stats.percentileofscore(x, tar))\ndef QA_indicator_MACD(DataFrame, short=12, long=26, mid=9):\n    \"\"\"\n    MACD CALC\n    \"\"\"",
+        "detail": "indicator_factory.QAIndicator",
+        "documentation": {}
+    },
+    {
+        "label": "perc",
+        "kind": 2,
+        "importPath": "indicator_factory.QAIndicator",
+        "description": "indicator_factory.QAIndicator",
+        "peekOfCode": "def perc(x):\n    x = list(x)\n    tar = x[-1]\n    return(stats.percentileofscore(x, tar))\ndef QA_indicator_MACD(DataFrame, short=12, long=26, mid=9):\n    \"\"\"\n    MACD CALC\n    \"\"\"\n    CLOSE = DataFrame['close']\n    DIF = (MA(CLOSE, short)-MA(CLOSE, long))/((MA(CLOSE, short)+MA(CLOSE, long))/2)*100",
+        "detail": "indicator_factory.QAIndicator",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_MACD",
+        "kind": 2,
+        "importPath": "indicator_factory.QAIndicator",
+        "description": "indicator_factory.QAIndicator",
+        "peekOfCode": "def QA_indicator_MACD(DataFrame, short=12, long=26, mid=9):\n    \"\"\"\n    MACD CALC\n    \"\"\"\n    CLOSE = DataFrame['close']\n    DIF = (MA(CLOSE, short)-MA(CLOSE, long))/((MA(CLOSE, short)+MA(CLOSE, long))/2)*100\n    DEA = MA(DIF, mid)\n    MACD = (DIF-DEA)*2\n    return pd.DataFrame({'DIF': DIF, 'DEA': DEA, 'MACD': MACD})\ndef QA_Value_LLV(DataFrame, S=5, M=10, L=20):",
+        "detail": "indicator_factory.QAIndicator",
+        "documentation": {}
+    },
+    {
+        "label": "QA_Value_LLV",
+        "kind": 2,
+        "importPath": "indicator_factory.QAIndicator",
+        "description": "indicator_factory.QAIndicator",
+        "peekOfCode": "def QA_Value_LLV(DataFrame, S=5, M=10, L=20):\n    \"\"\"\n    低位监控\n    \"\"\"\n    LOWS = LLV(DataFrame['low'], S)\n    LOWM = LLV(DataFrame['low'], M)\n    LOWL = LLV(DataFrame['low'], L)\n    HIGS = HHV(DataFrame['high'], S)\n    HIGM = HHV(DataFrame['high'], M)\n    HIGL = HHV(DataFrame['high'], L)",
+        "detail": "indicator_factory.QAIndicator",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_LLV",
+        "kind": 2,
+        "importPath": "indicator_factory.QAIndicator",
+        "description": "indicator_factory.QAIndicator",
+        "peekOfCode": "def QA_indicator_LLV(DataFrame, S=5, M=10, L=20):\n    \"\"\"\n    低位监控\n    \"\"\"\n    LOWS = LLV(DataFrame['low'], S)\n    LOWM = LLV(DataFrame['low'], M)\n    LOWL = LLV(DataFrame['low'], L)\n    LS = LOWS / LOWM -1\n    LL = LOWM / LOWL -1\n    HIGS = HHV(DataFrame['high'], S)",
+        "detail": "indicator_factory.QAIndicator",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_DMA",
+        "kind": 2,
+        "importPath": "indicator_factory.QAIndicator",
+        "description": "indicator_factory.QAIndicator",
+        "peekOfCode": "def QA_indicator_DMA(DataFrame, M1=10, M2=50, M3=10):\n    \"\"\"\n    平均线差 DMA\n    \"\"\"\n    CLOSE = DataFrame.close\n    DDD = MA(CLOSE, M1) / MA(CLOSE, M2) - 1\n    AMA = MA(DDD, M3)\n    return pd.DataFrame({\n        'DDD': DDD, 'AMA': AMA\n    })",
+        "detail": "indicator_factory.QAIndicator",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_MTM",
+        "kind": 2,
+        "importPath": "indicator_factory.QAIndicator",
+        "description": "indicator_factory.QAIndicator",
+        "peekOfCode": "def QA_indicator_MTM(DataFrame, N=12, M=6):\n    '动量线'\n    C = DataFrame.close\n    mtm = C / REF(C, N) - 1\n    MTMMA = MA(mtm, M)\n    DICT = {'MTM': mtm, 'MTMMA': MTMMA}\n    return pd.DataFrame(DICT)\ndef QA_indicator_CHO(DataFrame, N1=10, N2=20, M=6):\n    \"\"\"\n    佳庆指标 CHO",
+        "detail": "indicator_factory.QAIndicator",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_CHO",
+        "kind": 2,
+        "importPath": "indicator_factory.QAIndicator",
+        "description": "indicator_factory.QAIndicator",
+        "peekOfCode": "def QA_indicator_CHO(DataFrame, N1=10, N2=20, M=6):\n    \"\"\"\n    佳庆指标 CHO\n    \"\"\"\n    HIGH = DataFrame.high\n    LOW = DataFrame.low\n    CLOSE = DataFrame.close\n    VOL = DataFrame.volume\n    MID = SUM(VOL*(2*CLOSE-HIGH-LOW)/(HIGH+LOW), 0)\n    CHO = MA(MID, N1)/MA(MID, N2)-1",
+        "detail": "indicator_factory.QAIndicator",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_OSC",
+        "kind": 2,
+        "importPath": "indicator_factory.QAIndicator",
+        "description": "indicator_factory.QAIndicator",
+        "peekOfCode": "def QA_indicator_OSC(DataFrame, N=20, M=6):\n    \"\"\"变动速率线\n    震荡量指标OSC，也叫变动速率线。属于超买超卖类指标,是从移动平均线原理派生出来的一种分析指标。\n    它反应当日收盘价与一段时间内平均收盘价的差离值,从而测出股价的震荡幅度。\n    按照移动平均线原理，根据OSC的值可推断价格的趋势，如果远离平均线，就很可能向平均线回归。\n    \"\"\"\n    C = DataFrame['close']\n    OS = (C / MA(C, N) - 1)\n    MAOSC = MA(OS, M)\n    DICT = {'OSC': OS, 'MAOSC': MAOSC}",
+        "detail": "indicator_factory.QAIndicator",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_CMI",
+        "kind": 2,
+        "importPath": "indicator_factory.QAIndicator",
+        "description": "indicator_factory.QAIndicator",
+        "peekOfCode": "def QA_indicator_CMI(DataFrame, N=6):\n    \"\"\"\n    1.指标>=20 时, 趋势区间；\n    2.指标<20 时, 无趋势；\n    \"\"\"\n    CLOSE = DataFrame['close']\n    LOWV = LLV(DataFrame['low'], N)\n    HIGHV = HHV(DataFrame['high'], N)\n    CMI = ABS((CLOSE - REF(CLOSE, N - 1)) / (HIGHV - LOWV)) * 100\n    DICT = {'CMI': CMI}",
+        "detail": "indicator_factory.QAIndicator",
+        "documentation": {}
+    },
+    {
+        "label": "QA_indicator_SKDJ",
+        "kind": 2,
+        "importPath": "indicator_factory.QAIndicator",
+        "description": "indicator_factory.QAIndicator",
+        "peekOfCode": "def QA_indicator_SKDJ(DataFrame, N=9, M=3):\n    \"\"\"\n    1.指标>80 时，回档机率大；指标<20 时，反弹机率大；\n    2.K在20左右向上交叉D时，视为买进信号参考；\n    3.K在80左右向下交叉D时，视为卖出信号参考；\n    4.SKDJ波动于50左右的任何讯号，其作用不大。\n    \"\"\"\n    CLOSE = DataFrame['close']\n    LOWV = LLV(DataFrame['low'], N)\n    HIGHV = HHV(DataFrame['high'], N)",
+        "detail": "indicator_factory.QAIndicator",
+        "documentation": {}
+    },
+    {
+        "label": "ohlc",
+        "kind": 2,
+        "importPath": "indicator_factory.QAIndicator",
+        "description": "indicator_factory.QAIndicator",
+        "peekOfCode": "def ohlc(data,N=7):\n    data['open'] = data['open'].rolling(window=N,min_periods=1).apply(lambda x:x[0],raw=True)\n    data['high'] = data['high'].rolling(window=N,min_periods=1).apply(lambda x:x.max(),raw=True)\n    data['low'] = data['low'].rolling(window=N,min_periods=1).apply(lambda x:x.min(),raw=True)\n    data['close'] = data['close'].rolling(window=N,min_periods=1).apply(lambda x:x[-1],raw=True)\n    data['volume'] = data['volume'].rolling(window=N,min_periods=1).apply(lambda x:x.sum(),raw=True)\n    data['amount'] = data['amount'].rolling(window=N,min_periods=1).apply(lambda x:x.sum(),raw=True)\n    return(data)\ndef rolling_ols(y):\n    '''",
+        "detail": "indicator_factory.QAIndicator",
+        "documentation": {}
+    },
+    {
+        "label": "rolling_ols",
+        "kind": 2,
+        "importPath": "indicator_factory.QAIndicator",
+        "description": "indicator_factory.QAIndicator",
+        "peekOfCode": "def rolling_ols(y):\n    '''\n    滚动回归，返回滚动回归后的回归系数\n    rb: 因变量序列\n    '''\n    #y = pd.DataFrame.ewm(y,alpha=1.0/24,ignore_na=True).mean().values\n    model = stats.linregress(y=y, x=pd.Series(range(1,len(y)+1)))\n    return(math.atan(model.slope)*180/math.pi)\ndef spc(data, N= 5):\n    data[['MA5_C','MA15_C','MA30_C','MA60_C','GMMA3_C','GMMA15_C','GMMA30_C',",
+        "detail": "indicator_factory.QAIndicator",
+        "documentation": {}
+    },
+    {
+        "label": "spc",
+        "kind": 2,
+        "importPath": "indicator_factory.QAIndicator",
+        "description": "indicator_factory.QAIndicator",
+        "peekOfCode": "def spc(data, N= 5):\n    data[['MA5_C','MA15_C','MA30_C','MA60_C','GMMA3_C','GMMA15_C','GMMA30_C',\n          'MA_VOL5_C','MA_VOL60_C','GMMA_VOL3_C','GMMA_VOL15_C','GMMA_VOL30_C']]= data.rolling(window=N).agg({'MA5':rolling_ols,\n                                                                                                              'MA15':rolling_ols,\n                                                                                                              'MA30':rolling_ols,\n                                   'MA60':rolling_ols,\n                                   'GMMA3':rolling_ols,\n                                   'GMMA15':rolling_ols,\n                                   'GMMA30':rolling_ols,\n                                   'MA_VOL5':rolling_ols,",
+        "detail": "indicator_factory.QAIndicator",
+        "documentation": {}
+    },
+    {
+        "label": "MIKE_NEW",
+        "kind": 2,
+        "importPath": "indicator_factory.QAIndicator",
+        "description": "indicator_factory.QAIndicator",
+        "peekOfCode": "def MIKE_NEW(DataFrame,MIKE_N=12,MA_N=5):\n    HIGH = DataFrame.high\n    LOW = DataFrame.low\n    CLOSE = DataFrame.close\n    TYP = (HIGH+LOW+CLOSE)/3\n    LL = LLV(LOW, MIKE_N)\n    HH = HHV(HIGH, MIKE_N)\n    WR = TYP+(TYP-LL)\n    MR = TYP+(HH-LL)\n    SR = 2*HH-LL",
+        "detail": "indicator_factory.QAIndicator",
+        "documentation": {}
+    },
+    {
+        "label": "indicator_ATR",
+        "kind": 2,
+        "importPath": "indicator_factory.QAIndicator",
+        "description": "indicator_factory.QAIndicator",
+        "peekOfCode": "def indicator_ATR(DataFrame, N=14):\n    \"\"\"\n    输出TR:(最高价-最低价)和昨收-最高价的绝对值的较大值和昨收-最低价的绝对值的较大值\n    输出真实波幅:TR的N日简单移动平均\n    算法：今日振幅、今日最高与昨收差价、今日最低与昨收差价中的最大值，为真实波幅，求真实波幅的N日移动平均\n    参数：N　天数，一般取14\n    \"\"\"\n    C = DataFrame['close']\n    H = DataFrame['high']\n    L = DataFrame['low']",
+        "detail": "indicator_factory.QAIndicator",
+        "documentation": {}
+    },
+    {
+        "label": "function1",
+        "kind": 2,
+        "importPath": "indicator_factory.QAIndicator",
+        "description": "indicator_factory.QAIndicator",
+        "peekOfCode": "def function1(a, b):\n    if a > b:\n        return 1\n    elif a < b:\n        return -1\n    else:\n        return 0\ndef get_indicator(data, type='day', keep = False):\n    try:\n        # todo",
+        "detail": "indicator_factory.QAIndicator",
+        "documentation": {}
+    },
+    {
+        "label": "get_indicator",
+        "kind": 2,
+        "importPath": "indicator_factory.QAIndicator",
+        "description": "indicator_factory.QAIndicator",
+        "peekOfCode": "def get_indicator(data, type='day', keep = False):\n    try:\n        # todo\n        #A.低价区域：70~40——为可买进区域\n        #B.安全区域：150~80——正常分布区域\n        #C.获利区域：450~160——应考虑获利了结\n        #D.警戒区域：450以上——股价已过高\n        #2.在低价区域中，VR值止跌回升，可买进，\n        #3.在VR>160时，股价上扬，VR值见顶，可卖出，\n        #1．VR指标在低价区域准确度较高，当VR>160时有失真可能，特别是在350~400高档区，有时会发生将股票卖出后，股价仍续涨的现象，此时可以配合PSY心理线指标来化解疑难。",
+        "detail": "indicator_factory.QAIndicator",
+        "documentation": {}
+    },
+    {
+        "label": "get_indicator_short",
+        "kind": 2,
+        "importPath": "indicator_factory.QAIndicator",
+        "description": "indicator_factory.QAIndicator",
+        "peekOfCode": "def get_indicator_short(data, type='day', keep=False):\n    #try:\n    #    BOLL = data.add_func(QA_indicator_BOLL)\n    #    BOLL['WIDTH'] = (BOLL['UB']-BOLL['LB'])/BOLL['BOLL']\n    #    BOLL['BOLL'] = data['close'] / BOLL['BOLL'] - 1\n    #    BOLL['UB'] = data['close'] / BOLL['UB'] - 1\n    #    BOLL['LB'] = data['close'] / BOLL['LB'] - 1\n    #except:\n    #    BOLL = data.data.assign(BOLL=None,UB=None,LB=None,WIDTH=None,\n    #                            BOLL_CROSS1=0,BOLL_CROSS2=0,BOLL_CROSS3=0,",
+        "detail": "indicator_factory.QAIndicator",
+        "documentation": {}
+    },
+    {
+        "label": "get_indicator_real",
+        "kind": 2,
+        "importPath": "indicator_factory.QAIndicator",
+        "description": "indicator_factory.QAIndicator",
+        "peekOfCode": "def get_indicator_real(data, type='day', keep=False):\n    try:\n        BOLL = data.add_func(QA_indicator_BOLL)\n        BOLL['WIDTH'] = (BOLL['UB']-BOLL['LB'])/BOLL['BOLL']\n        BOLL['BOLL'] = data['close'] / BOLL['BOLL'] - 1\n        BOLL['UB'] = data['close'] / BOLL['UB'] - 1\n        BOLL['LB'] = data['close'] / BOLL['LB'] - 1\n    except:\n        BOLL = data.data.assign(BOLL=None,UB=None,LB=None,WIDTH=None,\n                                BOLL_CROSS1=0,BOLL_CROSS2=0,BOLL_CROSS3=0,",
+        "detail": "indicator_factory.QAIndicator",
+        "documentation": {}
+    },
+    {
+        "label": "get_LLV",
+        "kind": 2,
+        "importPath": "indicator_factory.QAIndicator",
+        "description": "indicator_factory.QAIndicator",
+        "peekOfCode": "def get_LLV(data, type='day'):\n    try:\n        # todo\n        #A.低价区域：70~40——为可买进区域\n        #B.安全区域：150~80——正常分布区域\n        #C.获利区域：450~160——应考虑获利了结\n        #D.警戒区域：450以上——股价已过高\n        #2.在低价区域中，VR值止跌回升，可买进，\n        #3.在VR>160时，股价上扬，VR值见顶，可卖出，\n        #1．VR指标在低价区域准确度较高，当VR>160时有失真可能，特别是在350~400高档区，有时会发生将股票卖出后，股价仍续涨的现象，此时可以配合PSY心理线指标来化解疑难。",
+        "detail": "indicator_factory.QAIndicator",
+        "documentation": {}
+    },
+    {
+        "label": "get_LLValue",
+        "kind": 2,
+        "importPath": "indicator_factory.QAIndicator",
+        "description": "indicator_factory.QAIndicator",
+        "peekOfCode": "def get_LLValue(data, type='day'):\n    try:\n        # todo\n        #A.低价区域：70~40——为可买进区域\n        #B.安全区域：150~80——正常分布区域\n        #C.获利区域：450~160——应考虑获利了结\n        #D.警戒区域：450以上——股价已过高\n        #2.在低价区域中，VR值止跌回升，可买进，\n        #3.在VR>160时，股价上扬，VR值见顶，可卖出，\n        #1．VR指标在低价区域准确度较高，当VR>160时有失真可能，特别是在350~400高档区，有时会发生将股票卖出后，股价仍续涨的现象，此时可以配合PSY心理线指标来化解疑难。",
+        "detail": "indicator_factory.QAIndicator",
+        "documentation": {}
+    },
+    {
+        "label": "AD",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def AD(DataFrame):\n    res = talib.AD(DataFrame.high.values, DataFrame.low.values,\n                   DataFrame.close.values, DataFrame.volume.values)\n    return pd.DataFrame({'AD': res}, index=DataFrame.index)\ndef ADOSC(DataFrame, N1=3, N2=10):\n    res = talib.ADOSC(DataFrame.high.values, DataFrame.low.values,\n                      DataFrame.close.values, DataFrame.volume.values, N1, N2)\n    return pd.DataFrame({'ADOSC': res}, index=DataFrame.index)\ndef ADX(DataFrame, N=14):\n    res = talib.ADX(DataFrame.high.values, DataFrame.low.values, DataFrame.close.values, N)",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "ADOSC",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def ADOSC(DataFrame, N1=3, N2=10):\n    res = talib.ADOSC(DataFrame.high.values, DataFrame.low.values,\n                      DataFrame.close.values, DataFrame.volume.values, N1, N2)\n    return pd.DataFrame({'ADOSC': res}, index=DataFrame.index)\ndef ADX(DataFrame, N=14):\n    res = talib.ADX(DataFrame.high.values, DataFrame.low.values, DataFrame.close.values, N)\n    return pd.DataFrame({'ADX': res}, index=DataFrame.index)\ndef ADXR(DataFrame, N=14):\n    res = talib.ADXR(DataFrame.high.values, DataFrame.low.values, DataFrame.close.values, N)\n    return pd.DataFrame({'ADXR': res}, index=DataFrame.index)",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "ADX",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def ADX(DataFrame, N=14):\n    res = talib.ADX(DataFrame.high.values, DataFrame.low.values, DataFrame.close.values, N)\n    return pd.DataFrame({'ADX': res}, index=DataFrame.index)\ndef ADXR(DataFrame, N=14):\n    res = talib.ADXR(DataFrame.high.values, DataFrame.low.values, DataFrame.close.values, N)\n    return pd.DataFrame({'ADXR': res}, index=DataFrame.index)\ndef AROON(DataFrame, N=14):\n    \"\"\"阿隆指标\n    Arguments:\n        DataFrame {[type]} -- [description]",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "ADXR",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def ADXR(DataFrame, N=14):\n    res = talib.ADXR(DataFrame.high.values, DataFrame.low.values, DataFrame.close.values, N)\n    return pd.DataFrame({'ADXR': res}, index=DataFrame.index)\ndef AROON(DataFrame, N=14):\n    \"\"\"阿隆指标\n    Arguments:\n        DataFrame {[type]} -- [description]\n    Keyword Arguments:\n        N {int} -- [description] (default: {14})\n    Returns:",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "AROON",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def AROON(DataFrame, N=14):\n    \"\"\"阿隆指标\n    Arguments:\n        DataFrame {[type]} -- [description]\n    Keyword Arguments:\n        N {int} -- [description] (default: {14})\n    Returns:\n        [type] -- [description]\n    \"\"\"\n    ar_up, ar_down = talib.AROON(DataFrame.high.values, DataFrame.low.values, N)",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "AROONOSC",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def AROONOSC(DataFrame, N=14):\n    res = talib.AROONOSC(DataFrame.high.values, DataFrame.low.values, N)\n    return pd.DataFrame({'AROONOSC': res}, index=DataFrame.index)\ndef ATR(DataFrame, N=14):\n    res = talib.ATR(DataFrame.high.values, DataFrame.low.values, DataFrame.close.values, N)\n    return pd.DataFrame({'ATR': res}, index=DataFrame.index)\ndef AVGPRICE(DataFrame):\n    res = talib.AVGPRICE(DataFrame.open.values, DataFrame.high.values,\n                         DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'AVGPRICE': res}, index=DataFrame.index)",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "ATR",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def ATR(DataFrame, N=14):\n    res = talib.ATR(DataFrame.high.values, DataFrame.low.values, DataFrame.close.values, N)\n    return pd.DataFrame({'ATR': res}, index=DataFrame.index)\ndef AVGPRICE(DataFrame):\n    res = talib.AVGPRICE(DataFrame.open.values, DataFrame.high.values,\n                         DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'AVGPRICE': res}, index=DataFrame.index)\ndef BOP(DataFrame):\n    res = talib.BOP(DataFrame.open.values, DataFrame.high.values,\n                    DataFrame.low.values, DataFrame.close.values)",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "AVGPRICE",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def AVGPRICE(DataFrame):\n    res = talib.AVGPRICE(DataFrame.open.values, DataFrame.high.values,\n                         DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'AVGPRICE': res}, index=DataFrame.index)\ndef BOP(DataFrame):\n    res = talib.BOP(DataFrame.open.values, DataFrame.high.values,\n                    DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'BOP': res}, index=DataFrame.index)\ndef CCI(DataFrame, N=14):\n    res = talib.CCI(DataFrame.high.values, DataFrame.low.values, DataFrame.close.values, N)",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "BOP",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def BOP(DataFrame):\n    res = talib.BOP(DataFrame.open.values, DataFrame.high.values,\n                    DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'BOP': res}, index=DataFrame.index)\ndef CCI(DataFrame, N=14):\n    res = talib.CCI(DataFrame.high.values, DataFrame.low.values, DataFrame.close.values, N)\n    return pd.DataFrame({'CCI': res}, index=DataFrame.index)\ndef CDL2CROWS(DataFrame):\n    res = talib.CDL2CROWS(DataFrame.open.values, DataFrame.high.values,\n                          DataFrame.low.values, DataFrame.close.values)",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CCI",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CCI(DataFrame, N=14):\n    res = talib.CCI(DataFrame.high.values, DataFrame.low.values, DataFrame.close.values, N)\n    return pd.DataFrame({'CCI': res}, index=DataFrame.index)\ndef CDL2CROWS(DataFrame):\n    res = talib.CDL2CROWS(DataFrame.open.values, DataFrame.high.values,\n                          DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDL2CROWS': res}, index=DataFrame.index)\ndef CDL3BLACKCROWS(DataFrame):\n    res = talib.CDL3BLACKCROWS(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDL2CROWS",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDL2CROWS(DataFrame):\n    res = talib.CDL2CROWS(DataFrame.open.values, DataFrame.high.values,\n                          DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDL2CROWS': res}, index=DataFrame.index)\ndef CDL3BLACKCROWS(DataFrame):\n    res = talib.CDL3BLACKCROWS(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDL3BLACKCROWS': res}, index=DataFrame.index)\ndef CDL3INSIDE(DataFrame):\n    res = talib.CDL3INSIDE(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDL3BLACKCROWS",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDL3BLACKCROWS(DataFrame):\n    res = talib.CDL3BLACKCROWS(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDL3BLACKCROWS': res}, index=DataFrame.index)\ndef CDL3INSIDE(DataFrame):\n    res = talib.CDL3INSIDE(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDL3INSIDE': res}, index=DataFrame.index)\ndef CDL3LINESTRIKE(DataFrame):\n    res = talib.CDL3LINESTRIKE(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDL3INSIDE",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDL3INSIDE(DataFrame):\n    res = talib.CDL3INSIDE(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDL3INSIDE': res}, index=DataFrame.index)\ndef CDL3LINESTRIKE(DataFrame):\n    res = talib.CDL3LINESTRIKE(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDL3LINESTRIKE': res}, index=DataFrame.index)\ndef CDL3OUTSIDE(DataFrame):\n    res = talib.CDL3OUTSIDE(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDL3LINESTRIKE",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDL3LINESTRIKE(DataFrame):\n    res = talib.CDL3LINESTRIKE(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDL3LINESTRIKE': res}, index=DataFrame.index)\ndef CDL3OUTSIDE(DataFrame):\n    res = talib.CDL3OUTSIDE(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDL3OUTSIDE': res}, index=DataFrame.index)\ndef CDL3STARSINSOUTH(DataFrame):\n    res = talib.CDL3STARSINSOUTH(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDL3OUTSIDE",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDL3OUTSIDE(DataFrame):\n    res = talib.CDL3OUTSIDE(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDL3OUTSIDE': res}, index=DataFrame.index)\ndef CDL3STARSINSOUTH(DataFrame):\n    res = talib.CDL3STARSINSOUTH(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDL3STARSINSOUTH': res}, index=DataFrame.index)\ndef CDL3WHITESOLDIERS(DataFrame):\n    res = talib.CDL3WHITESOLDIERS(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDL3STARSINSOUTH",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDL3STARSINSOUTH(DataFrame):\n    res = talib.CDL3STARSINSOUTH(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDL3STARSINSOUTH': res}, index=DataFrame.index)\ndef CDL3WHITESOLDIERS(DataFrame):\n    res = talib.CDL3WHITESOLDIERS(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDL3WHITESOLDIERS': res}, index=DataFrame.index)\ndef CDLABANDONEDBABY(DataFrame):\n    res = talib.CDLABANDONEDBABY(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDL3WHITESOLDIERS",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDL3WHITESOLDIERS(DataFrame):\n    res = talib.CDL3WHITESOLDIERS(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDL3WHITESOLDIERS': res}, index=DataFrame.index)\ndef CDLABANDONEDBABY(DataFrame):\n    res = talib.CDLABANDONEDBABY(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLABANDONEDBABY': res}, index=DataFrame.index)\ndef CDLADVANCEBLOCK(DataFrame):\n    res = talib.CDLADVANCEBLOCK(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLABANDONEDBABY",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLABANDONEDBABY(DataFrame):\n    res = talib.CDLABANDONEDBABY(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLABANDONEDBABY': res}, index=DataFrame.index)\ndef CDLADVANCEBLOCK(DataFrame):\n    res = talib.CDLADVANCEBLOCK(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLADVANCEBLOCK': res}, index=DataFrame.index)\ndef CDLBELTHOLD(DataFrame):\n    res = talib.CDLBELTHOLD(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLADVANCEBLOCK",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLADVANCEBLOCK(DataFrame):\n    res = talib.CDLADVANCEBLOCK(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLADVANCEBLOCK': res}, index=DataFrame.index)\ndef CDLBELTHOLD(DataFrame):\n    res = talib.CDLBELTHOLD(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLBELTHOLD': res}, index=DataFrame.index)\ndef CDLBREAKAWAY(DataFrame):\n    res = talib.CDLBREAKAWAY(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLBELTHOLD",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLBELTHOLD(DataFrame):\n    res = talib.CDLBELTHOLD(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLBELTHOLD': res}, index=DataFrame.index)\ndef CDLBREAKAWAY(DataFrame):\n    res = talib.CDLBREAKAWAY(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLBREAKAWAY': res}, index=DataFrame.index)\ndef CDLCLOSINGMARUBOZU(DataFrame):\n    \"\"\"",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLBREAKAWAY",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLBREAKAWAY(DataFrame):\n    res = talib.CDLBREAKAWAY(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLBREAKAWAY': res}, index=DataFrame.index)\ndef CDLCLOSINGMARUBOZU(DataFrame):\n    \"\"\"\n    Closing Marubozu (Pattern Recognition)\n    Arguments:\n        DataFrame {[type]} -- [description]\n    \"\"\"",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLCLOSINGMARUBOZU",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLCLOSINGMARUBOZU(DataFrame):\n    \"\"\"\n    Closing Marubozu (Pattern Recognition)\n    Arguments:\n        DataFrame {[type]} -- [description]\n    \"\"\"\n    res = talib.CDLCLOSINGMARUBOZU(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLCLOSINGMARUBOZU': res}, index=DataFrame.index)\ndef CDLCONCEALBABYSWALL(DataFrame):",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLCONCEALBABYSWALL",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLCONCEALBABYSWALL(DataFrame):\n    res = talib.CDLCONCEALBABYSWALL(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLCONCEALBABYSWALL': res}, index=DataFrame.index)\ndef CDLCOUNTERATTACK(DataFrame):\n    res = talib.CDLCOUNTERATTACK(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLCOUNTERATTACK': res}, index=DataFrame.index)\ndef CDLDARKCLOUDCOVER(DataFrame):\n    res = talib.CDLDARKCLOUDCOVER(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLCOUNTERATTACK",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLCOUNTERATTACK(DataFrame):\n    res = talib.CDLCOUNTERATTACK(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLCOUNTERATTACK': res}, index=DataFrame.index)\ndef CDLDARKCLOUDCOVER(DataFrame):\n    res = talib.CDLDARKCLOUDCOVER(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLDARKCLOUDCOVER': res}, index=DataFrame.index)\ndef CDLDOJI(DataFrame):\n    res = talib.CDLDOJI(DataFrame.open.values, DataFrame.high.values,",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLDARKCLOUDCOVER",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLDARKCLOUDCOVER(DataFrame):\n    res = talib.CDLDARKCLOUDCOVER(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLDARKCLOUDCOVER': res}, index=DataFrame.index)\ndef CDLDOJI(DataFrame):\n    res = talib.CDLDOJI(DataFrame.open.values, DataFrame.high.values,\n                        DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLDOJI': res}, index=DataFrame.index)\ndef CDLDOJISTAR(DataFrame):\n    res = talib.CDLDOJISTAR(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLDOJI",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLDOJI(DataFrame):\n    res = talib.CDLDOJI(DataFrame.open.values, DataFrame.high.values,\n                        DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLDOJI': res}, index=DataFrame.index)\ndef CDLDOJISTAR(DataFrame):\n    res = talib.CDLDOJISTAR(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLDOJISTAR': res}, index=DataFrame.index)\ndef CDLDRAGONFLYDOJI(DataFrame):\n    res = talib.CDLDRAGONFLYDOJI(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLDOJISTAR",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLDOJISTAR(DataFrame):\n    res = talib.CDLDOJISTAR(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLDOJISTAR': res}, index=DataFrame.index)\ndef CDLDRAGONFLYDOJI(DataFrame):\n    res = talib.CDLDRAGONFLYDOJI(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLDRAGONFLYDOJI': res}, index=DataFrame.index)\ndef CDLENGULFING(DataFrame):\n    res = talib.CDLENGULFING(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLDRAGONFLYDOJI",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLDRAGONFLYDOJI(DataFrame):\n    res = talib.CDLDRAGONFLYDOJI(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLDRAGONFLYDOJI': res}, index=DataFrame.index)\ndef CDLENGULFING(DataFrame):\n    res = talib.CDLENGULFING(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLENGULFING': res}, index=DataFrame.index)\ndef CDLEVENINGDOJISTAR(DataFrame):\n    res = talib.CDLEVENINGDOJISTAR(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLENGULFING",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLENGULFING(DataFrame):\n    res = talib.CDLENGULFING(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLENGULFING': res}, index=DataFrame.index)\ndef CDLEVENINGDOJISTAR(DataFrame):\n    res = talib.CDLEVENINGDOJISTAR(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLEVENINGDOJISTAR': res}, index=DataFrame.index)\ndef CDLEVENINGSTAR(DataFrame):\n    res = talib.CDLEVENINGSTAR(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLEVENINGDOJISTAR",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLEVENINGDOJISTAR(DataFrame):\n    res = talib.CDLEVENINGDOJISTAR(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLEVENINGDOJISTAR': res}, index=DataFrame.index)\ndef CDLEVENINGSTAR(DataFrame):\n    res = talib.CDLEVENINGSTAR(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLEVENINGSTAR': res}, index=DataFrame.index)\ndef CDLGAPSIDESIDEWHITE(DataFrame):\n    res = talib.CDLGAPSIDESIDEWHITE(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLEVENINGSTAR",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLEVENINGSTAR(DataFrame):\n    res = talib.CDLEVENINGSTAR(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLEVENINGSTAR': res}, index=DataFrame.index)\ndef CDLGAPSIDESIDEWHITE(DataFrame):\n    res = talib.CDLGAPSIDESIDEWHITE(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLGAPSIDESIDEWHITE': res}, index=DataFrame.index)\ndef CDLGRAVESTONEDOJI(DataFrame):\n    res = talib.CDLGRAVESTONEDOJI(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLGAPSIDESIDEWHITE",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLGAPSIDESIDEWHITE(DataFrame):\n    res = talib.CDLGAPSIDESIDEWHITE(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLGAPSIDESIDEWHITE': res}, index=DataFrame.index)\ndef CDLGRAVESTONEDOJI(DataFrame):\n    res = talib.CDLGRAVESTONEDOJI(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLGRAVESTONEDOJI': res}, index=DataFrame.index)\ndef CDLHAMMER(DataFrame):\n    res = talib.CDLHAMMER(DataFrame.open.values, DataFrame.high.values,",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLGRAVESTONEDOJI",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLGRAVESTONEDOJI(DataFrame):\n    res = talib.CDLGRAVESTONEDOJI(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLGRAVESTONEDOJI': res}, index=DataFrame.index)\ndef CDLHAMMER(DataFrame):\n    res = talib.CDLHAMMER(DataFrame.open.values, DataFrame.high.values,\n                          DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLHAMMER': res}, index=DataFrame.index)\ndef CDLHANGINGMAN(DataFrame):\n    res = talib.CDLHANGINGMAN(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLHAMMER",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLHAMMER(DataFrame):\n    res = talib.CDLHAMMER(DataFrame.open.values, DataFrame.high.values,\n                          DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLHAMMER': res}, index=DataFrame.index)\ndef CDLHANGINGMAN(DataFrame):\n    res = talib.CDLHANGINGMAN(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLHANGINGMAN': res}, index=DataFrame.index)\ndef CDLHARAMI(DataFrame):\n    res = talib.CDLHARAMI(DataFrame.open.values, DataFrame.high.values,",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLHANGINGMAN",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLHANGINGMAN(DataFrame):\n    res = talib.CDLHANGINGMAN(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLHANGINGMAN': res}, index=DataFrame.index)\ndef CDLHARAMI(DataFrame):\n    res = talib.CDLHARAMI(DataFrame.open.values, DataFrame.high.values,\n                          DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLHARAMI': res}, index=DataFrame.index)\ndef CDLHARAMICROSS(DataFrame):\n    res = talib.CDLHARAMICROSS(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLHARAMI",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLHARAMI(DataFrame):\n    res = talib.CDLHARAMI(DataFrame.open.values, DataFrame.high.values,\n                          DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLHARAMI': res}, index=DataFrame.index)\ndef CDLHARAMICROSS(DataFrame):\n    res = talib.CDLHARAMICROSS(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLHARAMICROSS': res}, index=DataFrame.index)\ndef CDLHIGHWAVE(DataFrame):\n    res = talib.CDLHIGHWAVE(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLHARAMICROSS",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLHARAMICROSS(DataFrame):\n    res = talib.CDLHARAMICROSS(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLHARAMICROSS': res}, index=DataFrame.index)\ndef CDLHIGHWAVE(DataFrame):\n    res = talib.CDLHIGHWAVE(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLHIGHWAVE': res}, index=DataFrame.index)\ndef CDLHIKKAKE(DataFrame):\n    res = talib.CDLHIKKAKE(DataFrame.open.values, DataFrame.high.values,",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLHIGHWAVE",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLHIGHWAVE(DataFrame):\n    res = talib.CDLHIGHWAVE(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLHIGHWAVE': res}, index=DataFrame.index)\ndef CDLHIKKAKE(DataFrame):\n    res = talib.CDLHIKKAKE(DataFrame.open.values, DataFrame.high.values,\n                           DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLHIKKAKE': res}, index=DataFrame.index)\ndef CDLHIKKAKEMOD(DataFrame):\n    res = talib.CDLHIKKAKEMOD(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLHIKKAKE",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLHIKKAKE(DataFrame):\n    res = talib.CDLHIKKAKE(DataFrame.open.values, DataFrame.high.values,\n                           DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLHIKKAKE': res}, index=DataFrame.index)\ndef CDLHIKKAKEMOD(DataFrame):\n    res = talib.CDLHIKKAKEMOD(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLHIKKAKEMOD': res}, index=DataFrame.index)\ndef CDLHOMINGPIGEON(DataFrame):\n    res = talib.CDLHOMINGPIGEON(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLHIKKAKEMOD",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLHIKKAKEMOD(DataFrame):\n    res = talib.CDLHIKKAKEMOD(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLHIKKAKEMOD': res}, index=DataFrame.index)\ndef CDLHOMINGPIGEON(DataFrame):\n    res = talib.CDLHOMINGPIGEON(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLHOMINGPIGEON': res}, index=DataFrame.index)\ndef CDLIDENTICAL3CROWS(DataFrame):\n    res = talib.CDLIDENTICAL3CROWS(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLHOMINGPIGEON",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLHOMINGPIGEON(DataFrame):\n    res = talib.CDLHOMINGPIGEON(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLHOMINGPIGEON': res}, index=DataFrame.index)\ndef CDLIDENTICAL3CROWS(DataFrame):\n    res = talib.CDLIDENTICAL3CROWS(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLIDENTICAL3CROWS': res}, index=DataFrame.index)\ndef CDLINNECK(DataFrame):\n    res = talib.CDLINNECK(DataFrame.open.values, DataFrame.high.values,",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLIDENTICAL3CROWS",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLIDENTICAL3CROWS(DataFrame):\n    res = talib.CDLIDENTICAL3CROWS(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLIDENTICAL3CROWS': res}, index=DataFrame.index)\ndef CDLINNECK(DataFrame):\n    res = talib.CDLINNECK(DataFrame.open.values, DataFrame.high.values,\n                          DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLINNECK': res}, index=DataFrame.index)\ndef CDLINVERTEDHAMMER(DataFrame):\n    res = talib.CDLINVERTEDHAMMER(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLINNECK",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLINNECK(DataFrame):\n    res = talib.CDLINNECK(DataFrame.open.values, DataFrame.high.values,\n                          DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLINNECK': res}, index=DataFrame.index)\ndef CDLINVERTEDHAMMER(DataFrame):\n    res = talib.CDLINVERTEDHAMMER(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLINVERTEDHAMMER': res}, index=DataFrame.index)\ndef CDLKICKING(DataFrame):\n    res = talib.CDLKICKING(DataFrame.open.values, DataFrame.high.values,",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLINVERTEDHAMMER",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLINVERTEDHAMMER(DataFrame):\n    res = talib.CDLINVERTEDHAMMER(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLINVERTEDHAMMER': res}, index=DataFrame.index)\ndef CDLKICKING(DataFrame):\n    res = talib.CDLKICKING(DataFrame.open.values, DataFrame.high.values,\n                           DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLKICKING': res}, index=DataFrame.index)\ndef CDLKICKINGBYLENGTH(DataFrame):\n    res = talib.CDLKICKINGBYLENGTH(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLKICKING",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLKICKING(DataFrame):\n    res = talib.CDLKICKING(DataFrame.open.values, DataFrame.high.values,\n                           DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLKICKING': res}, index=DataFrame.index)\ndef CDLKICKINGBYLENGTH(DataFrame):\n    res = talib.CDLKICKINGBYLENGTH(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLKICKINGBYLENGTH': res}, index=DataFrame.index)\ndef CDLLADDERBOTTOM(DataFrame):\n    res = talib.CDLLADDERBOTTOM(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLKICKINGBYLENGTH",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLKICKINGBYLENGTH(DataFrame):\n    res = talib.CDLKICKINGBYLENGTH(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLKICKINGBYLENGTH': res}, index=DataFrame.index)\ndef CDLLADDERBOTTOM(DataFrame):\n    res = talib.CDLLADDERBOTTOM(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLLADDERBOTTOM': res}, index=DataFrame.index)\ndef CDLLONGLEGGEDDOJI(DataFrame):\n    res = talib.CDLLONGLEGGEDDOJI(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLLADDERBOTTOM",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLLADDERBOTTOM(DataFrame):\n    res = talib.CDLLADDERBOTTOM(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLLADDERBOTTOM': res}, index=DataFrame.index)\ndef CDLLONGLEGGEDDOJI(DataFrame):\n    res = talib.CDLLONGLEGGEDDOJI(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLLONGLEGGEDDOJI': res}, index=DataFrame.index)\ndef CDLLONGLINE(DataFrame):\n    res = talib.CDLLONGLINE(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLLONGLEGGEDDOJI",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLLONGLEGGEDDOJI(DataFrame):\n    res = talib.CDLLONGLEGGEDDOJI(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLLONGLEGGEDDOJI': res}, index=DataFrame.index)\ndef CDLLONGLINE(DataFrame):\n    res = talib.CDLLONGLINE(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLLONGLINE': res}, index=DataFrame.index)\ndef CDLMARUBOZU(DataFrame):\n    res = talib.CDLMARUBOZU(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLLONGLINE",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLLONGLINE(DataFrame):\n    res = talib.CDLLONGLINE(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLLONGLINE': res}, index=DataFrame.index)\ndef CDLMARUBOZU(DataFrame):\n    res = talib.CDLMARUBOZU(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLMARUBOZU': res}, index=DataFrame.index)\ndef CDLMATCHINGLOW(DataFrame):\n    res = talib.CDLMATCHINGLOW(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLMARUBOZU",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLMARUBOZU(DataFrame):\n    res = talib.CDLMARUBOZU(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLMARUBOZU': res}, index=DataFrame.index)\ndef CDLMATCHINGLOW(DataFrame):\n    res = talib.CDLMATCHINGLOW(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLMATCHINGLOW': res}, index=DataFrame.index)\ndef CDLMATHOLD(DataFrame):\n    res = talib.CDLMATHOLD(DataFrame.open.values, DataFrame.high.values,",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLMATCHINGLOW",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLMATCHINGLOW(DataFrame):\n    res = talib.CDLMATCHINGLOW(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLMATCHINGLOW': res}, index=DataFrame.index)\ndef CDLMATHOLD(DataFrame):\n    res = talib.CDLMATHOLD(DataFrame.open.values, DataFrame.high.values,\n                           DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLMATHOLD': res}, index=DataFrame.index)\ndef CDLMORNINGDOJISTAR(DataFrame):\n    res = talib.CDLMORNINGDOJISTAR(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLMATHOLD",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLMATHOLD(DataFrame):\n    res = talib.CDLMATHOLD(DataFrame.open.values, DataFrame.high.values,\n                           DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLMATHOLD': res}, index=DataFrame.index)\ndef CDLMORNINGDOJISTAR(DataFrame):\n    res = talib.CDLMORNINGDOJISTAR(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLMORNINGDOJISTAR': res}, index=DataFrame.index)\ndef CDLMORNINGSTAR(DataFrame):\n    res = talib.CDLMORNINGSTAR(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLMORNINGDOJISTAR",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLMORNINGDOJISTAR(DataFrame):\n    res = talib.CDLMORNINGDOJISTAR(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLMORNINGDOJISTAR': res}, index=DataFrame.index)\ndef CDLMORNINGSTAR(DataFrame):\n    res = talib.CDLMORNINGSTAR(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLMORNINGSTAR': res}, index=DataFrame.index)\ndef CDLONNECK(DataFrame):\n    res = talib.CDLONNECK(DataFrame.open.values, DataFrame.high.values,",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLMORNINGSTAR",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLMORNINGSTAR(DataFrame):\n    res = talib.CDLMORNINGSTAR(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLMORNINGSTAR': res}, index=DataFrame.index)\ndef CDLONNECK(DataFrame):\n    res = talib.CDLONNECK(DataFrame.open.values, DataFrame.high.values,\n                          DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLONNECK': res}, index=DataFrame.index)\ndef CDLPIERCING(DataFrame):\n    res = talib.CDLPIERCING(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLONNECK",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLONNECK(DataFrame):\n    res = talib.CDLONNECK(DataFrame.open.values, DataFrame.high.values,\n                          DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLONNECK': res}, index=DataFrame.index)\ndef CDLPIERCING(DataFrame):\n    res = talib.CDLPIERCING(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLPIERCING': res}, index=DataFrame.index)\ndef CDLRICKSHAWMAN(DataFrame):\n    res = talib.CDLRICKSHAWMAN(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLPIERCING",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLPIERCING(DataFrame):\n    res = talib.CDLPIERCING(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLPIERCING': res}, index=DataFrame.index)\ndef CDLRICKSHAWMAN(DataFrame):\n    res = talib.CDLRICKSHAWMAN(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLRICKSHAWMAN': res}, index=DataFrame.index)\ndef CDLRISEFALL3METHODS(DataFrame):\n    res = talib.CDLRISEFALL3METHODS(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLRICKSHAWMAN",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLRICKSHAWMAN(DataFrame):\n    res = talib.CDLRICKSHAWMAN(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLRICKSHAWMAN': res}, index=DataFrame.index)\ndef CDLRISEFALL3METHODS(DataFrame):\n    res = talib.CDLRISEFALL3METHODS(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLRISEFALL3METHODS': res}, index=DataFrame.index)\ndef CDLSEPARATINGLINES(DataFrame):\n    res = talib.CDLSEPARATINGLINES(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLRISEFALL3METHODS",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLRISEFALL3METHODS(DataFrame):\n    res = talib.CDLRISEFALL3METHODS(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLRISEFALL3METHODS': res}, index=DataFrame.index)\ndef CDLSEPARATINGLINES(DataFrame):\n    res = talib.CDLSEPARATINGLINES(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLSEPARATINGLINES': res}, index=DataFrame.index)\ndef CDLSHOOTINGSTAR(DataFrame):\n    res = talib.CDLSHOOTINGSTAR(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLSEPARATINGLINES",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLSEPARATINGLINES(DataFrame):\n    res = talib.CDLSEPARATINGLINES(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLSEPARATINGLINES': res}, index=DataFrame.index)\ndef CDLSHOOTINGSTAR(DataFrame):\n    res = talib.CDLSHOOTINGSTAR(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLSHOOTINGSTAR': res}, index=DataFrame.index)\ndef CDLSHORTLINE(DataFrame):\n    res = talib.CDLSHORTLINE(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLSHOOTINGSTAR",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLSHOOTINGSTAR(DataFrame):\n    res = talib.CDLSHOOTINGSTAR(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLSHOOTINGSTAR': res}, index=DataFrame.index)\ndef CDLSHORTLINE(DataFrame):\n    res = talib.CDLSHORTLINE(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLSHORTLINE': res}, index=DataFrame.index)\ndef CDLSPINNINGTOP(DataFrame):\n    res = talib.CDLSPINNINGTOP(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLSHORTLINE",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLSHORTLINE(DataFrame):\n    res = talib.CDLSHORTLINE(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLSHORTLINE': res}, index=DataFrame.index)\ndef CDLSPINNINGTOP(DataFrame):\n    res = talib.CDLSPINNINGTOP(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLSPINNINGTOP': res}, index=DataFrame.index)\ndef CDLSTALLEDPATTERN(DataFrame):\n    res = talib.CDLSTALLEDPATTERN(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLSPINNINGTOP",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLSPINNINGTOP(DataFrame):\n    res = talib.CDLSPINNINGTOP(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLSPINNINGTOP': res}, index=DataFrame.index)\ndef CDLSTALLEDPATTERN(DataFrame):\n    res = talib.CDLSTALLEDPATTERN(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLSTALLEDPATTERN': res}, index=DataFrame.index)\ndef CDLSTICKSANDWICH(DataFrame):\n    res = talib.CDLSTICKSANDWICH(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLSTALLEDPATTERN",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLSTALLEDPATTERN(DataFrame):\n    res = talib.CDLSTALLEDPATTERN(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLSTALLEDPATTERN': res}, index=DataFrame.index)\ndef CDLSTICKSANDWICH(DataFrame):\n    res = talib.CDLSTICKSANDWICH(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLSTICKSANDWICH': res}, index=DataFrame.index)\ndef CDLTAKURI(DataFrame):\n    res = talib.CDLTAKURI(DataFrame.open.values, DataFrame.high.values,",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLSTICKSANDWICH",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLSTICKSANDWICH(DataFrame):\n    res = talib.CDLSTICKSANDWICH(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLSTICKSANDWICH': res}, index=DataFrame.index)\ndef CDLTAKURI(DataFrame):\n    res = talib.CDLTAKURI(DataFrame.open.values, DataFrame.high.values,\n                          DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLTAKURI': res}, index=DataFrame.index)\ndef CDLTASUKIGAP(DataFrame):\n    res = talib.CDLTASUKIGAP(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLTAKURI",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLTAKURI(DataFrame):\n    res = talib.CDLTAKURI(DataFrame.open.values, DataFrame.high.values,\n                          DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLTAKURI': res}, index=DataFrame.index)\ndef CDLTASUKIGAP(DataFrame):\n    res = talib.CDLTASUKIGAP(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLTASUKIGAP': res}, index=DataFrame.index)\ndef CDLTHRUSTING(DataFrame):\n    res = talib.CDLTHRUSTING(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLTASUKIGAP",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLTASUKIGAP(DataFrame):\n    res = talib.CDLTASUKIGAP(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLTASUKIGAP': res}, index=DataFrame.index)\ndef CDLTHRUSTING(DataFrame):\n    res = talib.CDLTHRUSTING(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLTHRUSTING': res}, index=DataFrame.index)\ndef CDLTRISTAR(DataFrame):\n    res = talib.CDLTRISTAR(DataFrame.open.values, DataFrame.high.values,",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLTHRUSTING",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLTHRUSTING(DataFrame):\n    res = talib.CDLTHRUSTING(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLTHRUSTING': res}, index=DataFrame.index)\ndef CDLTRISTAR(DataFrame):\n    res = talib.CDLTRISTAR(DataFrame.open.values, DataFrame.high.values,\n                           DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLTRISTAR': res}, index=DataFrame.index)\ndef CDLUNIQUE3RIVER(DataFrame):\n    res = talib.CDLUNIQUE3RIVER(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLTRISTAR",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLTRISTAR(DataFrame):\n    res = talib.CDLTRISTAR(DataFrame.open.values, DataFrame.high.values,\n                           DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLTRISTAR': res}, index=DataFrame.index)\ndef CDLUNIQUE3RIVER(DataFrame):\n    res = talib.CDLUNIQUE3RIVER(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLUNIQUE3RIVER': res}, index=DataFrame.index)\ndef CDLUPSIDEGAP2CROWS(DataFrame):\n    res = talib.CDLUPSIDEGAP2CROWS(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLUNIQUE3RIVER",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLUNIQUE3RIVER(DataFrame):\n    res = talib.CDLUNIQUE3RIVER(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLUNIQUE3RIVER': res}, index=DataFrame.index)\ndef CDLUPSIDEGAP2CROWS(DataFrame):\n    res = talib.CDLUPSIDEGAP2CROWS(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLUPSIDEGAP2CROWS': res}, index=DataFrame.index)\ndef CDLXSIDEGAP3METHODS(DataFrame):\n    res = talib.CDLXSIDEGAP3METHODS(",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLUPSIDEGAP2CROWS",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLUPSIDEGAP2CROWS(DataFrame):\n    res = talib.CDLUPSIDEGAP2CROWS(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLUPSIDEGAP2CROWS': res}, index=DataFrame.index)\ndef CDLXSIDEGAP3METHODS(DataFrame):\n    res = talib.CDLXSIDEGAP3METHODS(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLXSIDEGAP3METHODS': res}, index=DataFrame.index)\ndef DX(DataFrame, N=14):\n    res = talib.DX(DataFrame.high.values, DataFrame.low.values, DataFrame.close.values, N)",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "CDLXSIDEGAP3METHODS",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def CDLXSIDEGAP3METHODS(DataFrame):\n    res = talib.CDLXSIDEGAP3METHODS(\n        DataFrame.open.values, DataFrame.high.values, DataFrame.low.values, DataFrame.close.values)\n    return pd.DataFrame({'CDLXSIDEGAP3METHODS': res}, index=DataFrame.index)\ndef DX(DataFrame, N=14):\n    res = talib.DX(DataFrame.high.values, DataFrame.low.values, DataFrame.close.values, N)\n    return pd.DataFrame({'DX': res}, index=DataFrame.index)\n# SAR - Parabolic SAR\ndef SAR(DataFrame, acceleration=0, maximum=0):\n    res = talib.SAR(DataFrame.high.values, DataFrame.low.values, acceleration, maximum)",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "DX",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def DX(DataFrame, N=14):\n    res = talib.DX(DataFrame.high.values, DataFrame.low.values, DataFrame.close.values, N)\n    return pd.DataFrame({'DX': res}, index=DataFrame.index)\n# SAR - Parabolic SAR\ndef SAR(DataFrame, acceleration=0, maximum=0):\n    res = talib.SAR(DataFrame.high.values, DataFrame.low.values, acceleration, maximum)\n    return pd.DataFrame({'SAR': res}, index=DataFrame.index)\ndef SAREXT(DataFrame, startvalue=0, offsetonreverse=0, accelerationinitlong=0,\n           accelerationlong=0, accelerationmaxlong=0, accelerationinitshort=0, accelerationshort=0, accelerationmaxshort=0):\n    res = talib.SAREXT(DataFrame.high.values, DataFrame.low.values,",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "SAR",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def SAR(DataFrame, acceleration=0, maximum=0):\n    res = talib.SAR(DataFrame.high.values, DataFrame.low.values, acceleration, maximum)\n    return pd.DataFrame({'SAR': res}, index=DataFrame.index)\ndef SAREXT(DataFrame, startvalue=0, offsetonreverse=0, accelerationinitlong=0,\n           accelerationlong=0, accelerationmaxlong=0, accelerationinitshort=0, accelerationshort=0, accelerationmaxshort=0):\n    res = talib.SAREXT(DataFrame.high.values, DataFrame.low.values,\n                       startvalue, offsetonreverse, accelerationinitlong, accelerationlong, accelerationmaxlong,\n                       accelerationinitshort, accelerationshort, accelerationmaxshort)\n    return pd.DataFrame({'SAREXT': res}, index=DataFrame.index)\ndef STOCH(DataFrame, fastk_period=5, slowk_period=3, slowk_matype=0, slowd_period=3, slowd_matype=0):",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "SAREXT",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def SAREXT(DataFrame, startvalue=0, offsetonreverse=0, accelerationinitlong=0,\n           accelerationlong=0, accelerationmaxlong=0, accelerationinitshort=0, accelerationshort=0, accelerationmaxshort=0):\n    res = talib.SAREXT(DataFrame.high.values, DataFrame.low.values,\n                       startvalue, offsetonreverse, accelerationinitlong, accelerationlong, accelerationmaxlong,\n                       accelerationinitshort, accelerationshort, accelerationmaxshort)\n    return pd.DataFrame({'SAREXT': res}, index=DataFrame.index)\ndef STOCH(DataFrame, fastk_period=5, slowk_period=3, slowk_matype=0, slowd_period=3, slowd_matype=0):\n    slowk, slowd = talib.STOCH(DataFrame.high.values, DataFrame.low.values, DataFrame.close.values,\n                               fastk_period, slowk_period, slowk_matype, slowd_period, slowd_matype)\n    return pd.DataFrame({'STOCH_SLOWK': slowk, 'STOCH_SLOWD': slowd}, index=DataFrame.index)",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "STOCH",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def STOCH(DataFrame, fastk_period=5, slowk_period=3, slowk_matype=0, slowd_period=3, slowd_matype=0):\n    slowk, slowd = talib.STOCH(DataFrame.high.values, DataFrame.low.values, DataFrame.close.values,\n                               fastk_period, slowk_period, slowk_matype, slowd_period, slowd_matype)\n    return pd.DataFrame({'STOCH_SLOWK': slowk, 'STOCH_SLOWD': slowd}, index=DataFrame.index)\ndef STOCHF(DataFrame, fastk_period=5, fastd_period=3, fastd_matype=0):\n    fastk, fastd = talib.STOCHF(DataFrame.high.values, DataFrame.low.values, DataFrame.close.values,\n                               fastk_period, fastd_period, fastd_matype)\n    return pd.DataFrame({'STOCHF_FASTK': fastk, 'STOCHF_FASTD': fastd}, index=DataFrame.index)",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "STOCHF",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_indicators",
+        "description": "indicator_factory.talib_indicators",
+        "peekOfCode": "def STOCHF(DataFrame, fastk_period=5, fastd_period=3, fastd_matype=0):\n    fastk, fastd = talib.STOCHF(DataFrame.high.values, DataFrame.low.values, DataFrame.close.values,\n                               fastk_period, fastd_period, fastd_matype)\n    return pd.DataFrame({'STOCHF_FASTK': fastk, 'STOCHF_FASTD': fastd}, index=DataFrame.index)",
+        "detail": "indicator_factory.talib_indicators",
+        "documentation": {}
+    },
+    {
+        "label": "TA_MACD",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_numpy",
+        "description": "indicator_factory.talib_numpy",
+        "peekOfCode": "def TA_MACD(prices: np.ndarray,\n            fastperiod: int = 12,\n            slowperiod: int = 26,\n            signalperiod: int = 9) -> np.ndarray:\n    '''\n    参数设置:\n        fastperiod = 12\n        slowperiod = 26\n        signalperiod = 9\n    返回: macd - dif, signal - dea, hist * 2 - bar, delta",
+        "detail": "indicator_factory.talib_numpy",
+        "documentation": {}
+    },
+    {
+        "label": "TA_RSI",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_numpy",
+        "description": "indicator_factory.talib_numpy",
+        "peekOfCode": "def TA_RSI(prices: np.ndarray,\n           timeperiod: int = 12) -> np.ndarray:\n    '''\n    参数设置:\n        timeperiod = 12\n    返回: ma\n    '''\n    rsi = talib.RSI(prices, timeperiod=timeperiod)\n    delta = np.r_[np.nan, np.diff(rsi)]\n    return np.c_[rsi, delta]",
+        "detail": "indicator_factory.talib_numpy",
+        "documentation": {}
+    },
+    {
+        "label": "TA_BBANDS",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_numpy",
+        "description": "indicator_factory.talib_numpy",
+        "peekOfCode": "def TA_BBANDS(prices: np.ndarray,\n              timeperiod: int = 5,\n              nbdevup: int = 2,\n              nbdevdn: int = 2,\n              matype: int = 0) -> np.ndarray:\n    '''\n    参数设置:\n        timeperiod = 5\n        nbdevup = 2\n        nbdevdn = 2",
+        "detail": "indicator_factory.talib_numpy",
+        "documentation": {}
+    },
+    {
+        "label": "TA_KDJ",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_numpy",
+        "description": "indicator_factory.talib_numpy",
+        "peekOfCode": "def TA_KDJ(high: np.ndarray,\n           low: np.ndarray,\n           close: np.ndarray,\n           fastk_period: int = 9,\n           slowk_matype: int = 0,\n           slowk_period: int = 3,\n           slowd_period: int = 3) -> np.ndarray:\n    '''\n    参数设置:\n        fastk_period = 9",
+        "detail": "indicator_factory.talib_numpy",
+        "documentation": {}
+    },
+    {
+        "label": "TA_ADX",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_numpy",
+        "description": "indicator_factory.talib_numpy",
+        "peekOfCode": "def TA_ADX(high, low, close, timeperiod=14) -> np.ndarray:\n    \"\"\"\n    ADX - Average Directional Movement Index\n    \"\"\"\n    real = talib.ADX(high, low, close, timeperiod=timeperiod)\n    return np.c_[real]\ndef TA_ADXR(high, low, close, timeperiod=14) -> np.ndarray:\n    \"\"\"\n    名称：平均趋向指数的趋向指数\n    简介：使用ADXR指标，指标判断ADX趋势。",
+        "detail": "indicator_factory.talib_numpy",
+        "documentation": {}
+    },
+    {
+        "label": "TA_ADXR",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_numpy",
+        "description": "indicator_factory.talib_numpy",
+        "peekOfCode": "def TA_ADXR(high, low, close, timeperiod=14) -> np.ndarray:\n    \"\"\"\n    名称：平均趋向指数的趋向指数\n    简介：使用ADXR指标，指标判断ADX趋势。\n    ADXR - Average Directional Movement Index Rating\n    \"\"\"\n    real = talib.ADXR(high, low, close, timeperiod=timeperiod)\n    return np.c_[real]\ndef TA_CCI(high: np.ndarray,\n           low: np.ndarray,",
+        "detail": "indicator_factory.talib_numpy",
+        "documentation": {}
+    },
+    {
+        "label": "TA_CCI",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_numpy",
+        "description": "indicator_factory.talib_numpy",
+        "peekOfCode": "def TA_CCI(high: np.ndarray,\n           low: np.ndarray,\n           close: np.ndarray,\n           timeperiod: int = 14) -> np.ndarray:\n    \"\"\"\n    名称：平均趋向指数的趋向指数\n    简介：使用CCI指标，指标判断CCI趋势。\n    CCI - Commodity Channel Index\n    \"\"\"\n    real = talib.CCI(high,",
+        "detail": "indicator_factory.talib_numpy",
+        "documentation": {}
+    },
+    {
+        "label": "TA_KAMA",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_numpy",
+        "description": "indicator_factory.talib_numpy",
+        "peekOfCode": "def TA_KAMA(close, timeperiod=30):\n    \"\"\"\n    请直接用 talib.KAMA(close, timeperiod)\n    KAMA - Kaufman Adaptive Moving Average\n    \"\"\"\n    real = talib.KAMA(close, timeperiod=timeperiod)\n    return np.c_[real]\ndef TA_HMA(close, period):\n    \"\"\"\n    赫尔移动平均线(HMA) ",
+        "detail": "indicator_factory.talib_numpy",
+        "documentation": {}
+    },
+    {
+        "label": "TA_HMA",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_numpy",
+        "description": "indicator_factory.talib_numpy",
+        "peekOfCode": "def TA_HMA(close, period):\n    \"\"\"\n    赫尔移动平均线(HMA) \n    Hull Moving Average.\n    Formula:\n    HMA = WMA(2*WMA(n/2) - WMA(n)), sqrt(n)\n    \"\"\"\n    hma = talib.WMA(2 * talib.WMA(close, int(period / 2)) -\n                    talib.WMA(close, period), int(np.sqrt(period)))\n    return hma",
+        "detail": "indicator_factory.talib_numpy",
+        "documentation": {}
+    },
+    {
+        "label": "ADX_MA",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_numpy",
+        "description": "indicator_factory.talib_numpy",
+        "peekOfCode": "def ADX_MA(data, period=14, smooth=14, limit=18):\n    \"\"\"\n    Moving Average ADX\n    ADX Smoothing Trend Color Change on Moving Average and ADX Cross. Use on Hourly Charts - Green UpTrend - Red DownTrend - Black Choppy No Trend\n    Source: https://www.tradingview.com/script/owwws7dM-Moving-Average-ADX/\n    Translator: 阿财（Rgveda@github）（4910163#qq.com）\n    Parameters\n    ----------\n    data : (N,) array_like\n        传入 OHLC Kline 序列。",
+        "detail": "indicator_factory.talib_numpy",
+        "documentation": {}
+    },
+    {
+        "label": "ATR_RSI_Stops",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_numpy",
+        "description": "indicator_factory.talib_numpy",
+        "peekOfCode": "def ATR_RSI_Stops(data, period=10):\n    \"\"\"\n    ATR 趋势判断指标 RSI在40~60区间实现牛熊趋势变化指示\n    This simple indicator gives you a bias on the market that can be used as a filter, an entry indicator for pullbacks,...\n    It shows the special relationship I discovered between the rsi and the 27 period ema\n    and the relation between the 40/60 levels of the rsi and the atr offset of the 27 ema line \n    Source: https://cn.tradingview.com/script/rqzryhZ2-Rsi-Stops-JD/\n    Translator: 阿财（Rgveda@github）（4910163#qq.com）\n    Parameters\n    ----------",
+        "detail": "indicator_factory.talib_numpy",
+        "documentation": {}
+    },
+    {
+        "label": "ATR_SuperTrend_cross",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_numpy",
+        "description": "indicator_factory.talib_numpy",
+        "peekOfCode": "def ATR_SuperTrend_cross(klines, length=12, Factor=3):\n    \"\"\"\n    ATR 趋势判断指标，可以实现快速而精准的牛熊趋势判断\n    the Super Trend ATR allows you to quickly identify trends and the acceleration phase and accumulation\n    Source: https://cn.tradingview.com/script/alvd6EHP-Bollinger-Bands-V2-Super-Trend/\n    Translator: 阿财（Rgveda@github）（4910163#qq.com）\n    Parameters\n    ----------\n    data : (N,) array_like\n        传入 OHLC Kline 序列。",
+        "detail": "indicator_factory.talib_numpy",
+        "documentation": {}
+    },
+    {
+        "label": "Volume_HMA",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_numpy",
+        "description": "indicator_factory.talib_numpy",
+        "peekOfCode": "def Volume_HMA(klines, period=5):\n    \"\"\"\n    交易量加权船型移动平均线 HMA，方向指示性类似于 Moving Average ADX，但它们通过不同的指标实现。\n    Hull Moving Average with Volume weighted, diretions similar like ADX_MA\n    Source: https://www.tradingview.com/script/XTViDINu-VHMA/\n    Translator: 阿财（Rgveda@github）（4910163#qq.com）\n    Parameters\n    ----------\n    klines : (N,) array_like\n        传入 OHLC Kline 序列。",
+        "detail": "indicator_factory.talib_numpy",
+        "documentation": {}
+    },
+    {
+        "label": "CMO",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_series",
+        "description": "indicator_factory.talib_series",
+        "peekOfCode": "def CMO(Series, timeperiod=14):\n    res = talib.CMO(Series.values, timeperiod)\n    return pd.Series(res, index=Series.index)\ndef BBANDS(Series, timeperiod=5, nbdevup=2, nbdevdn=2, matype=0):\n    up, middle, low = talib.BBANDS(\n        Series.values, timeperiod, nbdevup, nbdevdn, matype)\n    return pd.Series(up, index=Series.index), pd.Series(middle, index=Series.index), pd.Series(low, index=Series.index)\ndef BETA(SeriesA, SeriesB, timeperiod=5):\n    res = talib.BETA(SeriesA.values, SeriesB.values, timeperiod)\n    return pd.Series(res, index=SeriesA.index)",
+        "detail": "indicator_factory.talib_series",
+        "documentation": {}
+    },
+    {
+        "label": "BBANDS",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_series",
+        "description": "indicator_factory.talib_series",
+        "peekOfCode": "def BBANDS(Series, timeperiod=5, nbdevup=2, nbdevdn=2, matype=0):\n    up, middle, low = talib.BBANDS(\n        Series.values, timeperiod, nbdevup, nbdevdn, matype)\n    return pd.Series(up, index=Series.index), pd.Series(middle, index=Series.index), pd.Series(low, index=Series.index)\ndef BETA(SeriesA, SeriesB, timeperiod=5):\n    res = talib.BETA(SeriesA.values, SeriesB.values, timeperiod)\n    return pd.Series(res, index=SeriesA.index)\ndef CORREL(SeriesA, SeriesB, timeperiod=5):\n    res = talib.BETA(SeriesA.values, SeriesB.values, timeperiod)\n    return pd.Series(res, index=SeriesA.index)",
+        "detail": "indicator_factory.talib_series",
+        "documentation": {}
+    },
+    {
+        "label": "BETA",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_series",
+        "description": "indicator_factory.talib_series",
+        "peekOfCode": "def BETA(SeriesA, SeriesB, timeperiod=5):\n    res = talib.BETA(SeriesA.values, SeriesB.values, timeperiod)\n    return pd.Series(res, index=SeriesA.index)\ndef CORREL(SeriesA, SeriesB, timeperiod=5):\n    res = talib.BETA(SeriesA.values, SeriesB.values, timeperiod)\n    return pd.Series(res, index=SeriesA.index)\ndef DEMA(Series, timeperiod=30):\n    res = talib.DEMA(Series.values, timeperiod)\n    return pd.Series(res, index=Series.index)\n# def EMA(Series, timeperiod=30):",
+        "detail": "indicator_factory.talib_series",
+        "documentation": {}
+    },
+    {
+        "label": "CORREL",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_series",
+        "description": "indicator_factory.talib_series",
+        "peekOfCode": "def CORREL(SeriesA, SeriesB, timeperiod=5):\n    res = talib.BETA(SeriesA.values, SeriesB.values, timeperiod)\n    return pd.Series(res, index=SeriesA.index)\ndef DEMA(Series, timeperiod=30):\n    res = talib.DEMA(Series.values, timeperiod)\n    return pd.Series(res, index=Series.index)\n# def EMA(Series, timeperiod=30):\n#     res = talib.EMA(Series.values, timeperiod)\n#     return pd.Series(res, index=Series.index)\ndef HT_DCPERIOD(Series):",
+        "detail": "indicator_factory.talib_series",
+        "documentation": {}
+    },
+    {
+        "label": "DEMA",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_series",
+        "description": "indicator_factory.talib_series",
+        "peekOfCode": "def DEMA(Series, timeperiod=30):\n    res = talib.DEMA(Series.values, timeperiod)\n    return pd.Series(res, index=Series.index)\n# def EMA(Series, timeperiod=30):\n#     res = talib.EMA(Series.values, timeperiod)\n#     return pd.Series(res, index=Series.index)\ndef HT_DCPERIOD(Series):\n    res = talib.HT_DCPERIOD(Series.values)\n    return pd.Series(res, index=Series.index)\ndef HT_DCPHASE(Series):",
+        "detail": "indicator_factory.talib_series",
+        "documentation": {}
+    },
+    {
+        "label": "HT_DCPERIOD",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_series",
+        "description": "indicator_factory.talib_series",
+        "peekOfCode": "def HT_DCPERIOD(Series):\n    res = talib.HT_DCPERIOD(Series.values)\n    return pd.Series(res, index=Series.index)\ndef HT_DCPHASE(Series):\n    res = talib.HT_DCPHASE(Series.values)\n    return pd.Series(res, index=Series.index)\ndef HT_PHASOR(Series):\n    res = talib.HT_PHASOR(Series.values)\n    return pd.Series(res, index=Series.index)\ndef HT_SINE(Series):",
+        "detail": "indicator_factory.talib_series",
+        "documentation": {}
+    },
+    {
+        "label": "HT_DCPHASE",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_series",
+        "description": "indicator_factory.talib_series",
+        "peekOfCode": "def HT_DCPHASE(Series):\n    res = talib.HT_DCPHASE(Series.values)\n    return pd.Series(res, index=Series.index)\ndef HT_PHASOR(Series):\n    res = talib.HT_PHASOR(Series.values)\n    return pd.Series(res, index=Series.index)\ndef HT_SINE(Series):\n    res = talib.HT_SINE(Series.values)\n    return pd.Series(res, index=Series.index)\ndef HT_TRENDLINE(Series):",
+        "detail": "indicator_factory.talib_series",
+        "documentation": {}
+    },
+    {
+        "label": "HT_PHASOR",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_series",
+        "description": "indicator_factory.talib_series",
+        "peekOfCode": "def HT_PHASOR(Series):\n    res = talib.HT_PHASOR(Series.values)\n    return pd.Series(res, index=Series.index)\ndef HT_SINE(Series):\n    res = talib.HT_SINE(Series.values)\n    return pd.Series(res, index=Series.index)\ndef HT_TRENDLINE(Series):\n    res = talib.HT_TRENDLINE(Series.values)\n    return pd.Series(res, index=Series.index)\ndef HT_TRENDMODE(Series):",
+        "detail": "indicator_factory.talib_series",
+        "documentation": {}
+    },
+    {
+        "label": "HT_SINE",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_series",
+        "description": "indicator_factory.talib_series",
+        "peekOfCode": "def HT_SINE(Series):\n    res = talib.HT_SINE(Series.values)\n    return pd.Series(res, index=Series.index)\ndef HT_TRENDLINE(Series):\n    res = talib.HT_TRENDLINE(Series.values)\n    return pd.Series(res, index=Series.index)\ndef HT_TRENDMODE(Series):\n    res = talib.HT_TRENDMODE(Series.values)\n    return pd.Series(res, index=Series.index)\ndef KAMA(Series, timeperiod=30):",
+        "detail": "indicator_factory.talib_series",
+        "documentation": {}
+    },
+    {
+        "label": "HT_TRENDLINE",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_series",
+        "description": "indicator_factory.talib_series",
+        "peekOfCode": "def HT_TRENDLINE(Series):\n    res = talib.HT_TRENDLINE(Series.values)\n    return pd.Series(res, index=Series.index)\ndef HT_TRENDMODE(Series):\n    res = talib.HT_TRENDMODE(Series.values)\n    return pd.Series(res, index=Series.index)\ndef KAMA(Series, timeperiod=30):\n    res = talib.KAMA(Series.values, timeperiod)\n    return pd.Series(res, index=Series.index)\ndef LINEARREG(Series, timeperiod=14):",
+        "detail": "indicator_factory.talib_series",
+        "documentation": {}
+    },
+    {
+        "label": "HT_TRENDMODE",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_series",
+        "description": "indicator_factory.talib_series",
+        "peekOfCode": "def HT_TRENDMODE(Series):\n    res = talib.HT_TRENDMODE(Series.values)\n    return pd.Series(res, index=Series.index)\ndef KAMA(Series, timeperiod=30):\n    res = talib.KAMA(Series.values, timeperiod)\n    return pd.Series(res, index=Series.index)\ndef LINEARREG(Series, timeperiod=14):\n    res = talib.LINEARREG(Series.values, timeperiod)\n    return pd.Series(res, index=Series.index)\ndef LINEARREG_ANGLE(Series, timeperiod=14):",
+        "detail": "indicator_factory.talib_series",
+        "documentation": {}
+    },
+    {
+        "label": "KAMA",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_series",
+        "description": "indicator_factory.talib_series",
+        "peekOfCode": "def KAMA(Series, timeperiod=30):\n    res = talib.KAMA(Series.values, timeperiod)\n    return pd.Series(res, index=Series.index)\ndef LINEARREG(Series, timeperiod=14):\n    res = talib.LINEARREG(Series.values, timeperiod)\n    return pd.Series(res, index=Series.index)\ndef LINEARREG_ANGLE(Series, timeperiod=14):\n    res = talib.LINEARREG_ANGLE(Series.values, timeperiod)\n    return pd.Series(res, index=Series.index)\ndef LINEARREG_INTERCEPT(Series, timeperiod=14):",
+        "detail": "indicator_factory.talib_series",
+        "documentation": {}
+    },
+    {
+        "label": "LINEARREG",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_series",
+        "description": "indicator_factory.talib_series",
+        "peekOfCode": "def LINEARREG(Series, timeperiod=14):\n    res = talib.LINEARREG(Series.values, timeperiod)\n    return pd.Series(res, index=Series.index)\ndef LINEARREG_ANGLE(Series, timeperiod=14):\n    res = talib.LINEARREG_ANGLE(Series.values, timeperiod)\n    return pd.Series(res, index=Series.index)\ndef LINEARREG_INTERCEPT(Series, timeperiod=14):\n    res = talib.LINEARREG_INTERCEPT(Series.values, timeperiod)\n    return pd.Series(res, index=Series.index)\ndef LINEARREG_SLOPE(Series, timeperiod=14):",
+        "detail": "indicator_factory.talib_series",
+        "documentation": {}
+    },
+    {
+        "label": "LINEARREG_ANGLE",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_series",
+        "description": "indicator_factory.talib_series",
+        "peekOfCode": "def LINEARREG_ANGLE(Series, timeperiod=14):\n    res = talib.LINEARREG_ANGLE(Series.values, timeperiod)\n    return pd.Series(res, index=Series.index)\ndef LINEARREG_INTERCEPT(Series, timeperiod=14):\n    res = talib.LINEARREG_INTERCEPT(Series.values, timeperiod)\n    return pd.Series(res, index=Series.index)\ndef LINEARREG_SLOPE(Series, timeperiod=14):\n    res = talib.LINEARREG_SLOPE(Series.values, timeperiod)\n    return pd.Series(res, index=Series.index)\n# def MA(Series,):",
+        "detail": "indicator_factory.talib_series",
+        "documentation": {}
+    },
+    {
+        "label": "LINEARREG_INTERCEPT",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_series",
+        "description": "indicator_factory.talib_series",
+        "peekOfCode": "def LINEARREG_INTERCEPT(Series, timeperiod=14):\n    res = talib.LINEARREG_INTERCEPT(Series.values, timeperiod)\n    return pd.Series(res, index=Series.index)\ndef LINEARREG_SLOPE(Series, timeperiod=14):\n    res = talib.LINEARREG_SLOPE(Series.values, timeperiod)\n    return pd.Series(res, index=Series.index)\n# def MA(Series,):\n#   废弃* 因为和QA的MA函数冲突\n# def MACD(Series):\n#   废弃* 因为和QA的MACD函数冲突",
+        "detail": "indicator_factory.talib_series",
+        "documentation": {}
+    },
+    {
+        "label": "LINEARREG_SLOPE",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_series",
+        "description": "indicator_factory.talib_series",
+        "peekOfCode": "def LINEARREG_SLOPE(Series, timeperiod=14):\n    res = talib.LINEARREG_SLOPE(Series.values, timeperiod)\n    return pd.Series(res, index=Series.index)\n# def MA(Series,):\n#   废弃* 因为和QA的MA函数冲突\n# def MACD(Series):\n#   废弃* 因为和QA的MACD函数冲突\ndef MACDEXT(Series, fastperiod=12, fastmatype=0, slowperiod=26, slowmatype=0, signalperiod=9, signalmatype=0):\n    macd, macdsignal, macdhist = talib.MACDEXT(\n        Series.values, fastperiod, fastmatype, slowperiod, slowmatype, signalperiod, signalmatype)",
+        "detail": "indicator_factory.talib_series",
+        "documentation": {}
+    },
+    {
+        "label": "MACDEXT",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_series",
+        "description": "indicator_factory.talib_series",
+        "peekOfCode": "def MACDEXT(Series, fastperiod=12, fastmatype=0, slowperiod=26, slowmatype=0, signalperiod=9, signalmatype=0):\n    macd, macdsignal, macdhist = talib.MACDEXT(\n        Series.values, fastperiod, fastmatype, slowperiod, slowmatype, signalperiod, signalmatype)\n    return pd.Series(macd, index=Series.index), pd.Series(macdsignal, index=Series.index), pd.Series(macdhist, index=Series.index)\ndef MACDFIX(Series, timeperiod=9):\n    macd, macdsignal, macdhist = talib.MACDFIX(Series.values, timeperiod)\n    return pd.Series(macd, index=Series.index), pd.Series(macdsignal, index=Series.index), pd.Series(macdhist, index=Series.index)\ndef MAMA(Series, fastlimit=0.5, slowlimit=0.05):\n    mama, fama = talib.MAMA(Series.values, fastlimit, slowlimit)\n    return pd.Series(mama, index=Series.index), pd.Series(fama, index=Series.index)",
+        "detail": "indicator_factory.talib_series",
+        "documentation": {}
+    },
+    {
+        "label": "MACDFIX",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_series",
+        "description": "indicator_factory.talib_series",
+        "peekOfCode": "def MACDFIX(Series, timeperiod=9):\n    macd, macdsignal, macdhist = talib.MACDFIX(Series.values, timeperiod)\n    return pd.Series(macd, index=Series.index), pd.Series(macdsignal, index=Series.index), pd.Series(macdhist, index=Series.index)\ndef MAMA(Series, fastlimit=0.5, slowlimit=0.05):\n    mama, fama = talib.MAMA(Series.values, fastlimit, slowlimit)\n    return pd.Series(mama, index=Series.index), pd.Series(fama, index=Series.index)\n# # MAVP - Moving average with variable period\n# real = talib.MAVP(close, periods, minperiod=2, maxperiod=30, matype=0)\n# # MIDPOINT - MidPoint over period\n# real = talib.MIDPOINT(close, timeperiod=14)",
+        "detail": "indicator_factory.talib_series",
+        "documentation": {}
+    },
+    {
+        "label": "MAMA",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_series",
+        "description": "indicator_factory.talib_series",
+        "peekOfCode": "def MAMA(Series, fastlimit=0.5, slowlimit=0.05):\n    mama, fama = talib.MAMA(Series.values, fastlimit, slowlimit)\n    return pd.Series(mama, index=Series.index), pd.Series(fama, index=Series.index)\n# # MAVP - Moving average with variable period\n# real = talib.MAVP(close, periods, minperiod=2, maxperiod=30, matype=0)\n# # MIDPOINT - MidPoint over period\n# real = talib.MIDPOINT(close, timeperiod=14)\n# # MIDPRICE - Midpoint Price over period\n# real = talib.MIDPRICE(high, low, timeperiod=14)\n# # SAREXT - Parabolic SAR - Extended",
+        "detail": "indicator_factory.talib_series",
+        "documentation": {}
+    },
+    {
+        "label": "SMA",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_series",
+        "description": "indicator_factory.talib_series",
+        "peekOfCode": "def SMA(Series, timeperiod=30):\n    return pd.Series(talib.SMA(Series.values, timeperiod), index=Series.index)\ndef STDDEV(Series, timeperiod=5, nbdev=1):\n    return pd.Series(talib.STDDEV(Series.values, timeperiod, nbdev), index=Series.index)\ndef STOCHRSI(Series, timeperiod=14, fastk_period=5, fastd_period=3, fastd_matype=0):\n    fastk, fastd = talib.STOCHRSI(\n        Series.values, fastk_period, fastd_period, fastd_matype)\n    return pd.Series(fastk, index=Series.index), pd.Series(fastd, index=Series.index)",
+        "detail": "indicator_factory.talib_series",
+        "documentation": {}
+    },
+    {
+        "label": "STDDEV",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_series",
+        "description": "indicator_factory.talib_series",
+        "peekOfCode": "def STDDEV(Series, timeperiod=5, nbdev=1):\n    return pd.Series(talib.STDDEV(Series.values, timeperiod, nbdev), index=Series.index)\ndef STOCHRSI(Series, timeperiod=14, fastk_period=5, fastd_period=3, fastd_matype=0):\n    fastk, fastd = talib.STOCHRSI(\n        Series.values, fastk_period, fastd_period, fastd_matype)\n    return pd.Series(fastk, index=Series.index), pd.Series(fastd, index=Series.index)",
+        "detail": "indicator_factory.talib_series",
+        "documentation": {}
+    },
+    {
+        "label": "STOCHRSI",
+        "kind": 2,
+        "importPath": "indicator_factory.talib_series",
+        "description": "indicator_factory.talib_series",
+        "peekOfCode": "def STOCHRSI(Series, timeperiod=14, fastk_period=5, fastd_period=3, fastd_matype=0):\n    fastk, fastd = talib.STOCHRSI(\n        Series.values, fastk_period, fastd_period, fastd_matype)\n    return pd.Series(fastk, index=Series.index), pd.Series(fastd, index=Series.index)",
+        "detail": "indicator_factory.talib_series",
+        "documentation": {}
+    }
+]
