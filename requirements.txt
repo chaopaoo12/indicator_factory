@@ -1,7 +1,6 @@
 pandas
 numpy
 python-math
-sys
 matplotlib
 scipy
 talib
