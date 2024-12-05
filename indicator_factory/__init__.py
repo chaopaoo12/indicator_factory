@@ -21,6 +21,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 from indicator_factory.indicators import *
+from indicator_factory.QAIndicator import *
 from indicator_factory.base import *
 try:
     from talib_series import *
