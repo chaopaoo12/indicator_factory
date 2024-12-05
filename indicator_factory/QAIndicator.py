@@ -1,4 +1,4 @@
-from indicators import (QA_indicator_VR,QA_indicator_VRSI,QA_indicator_VSTD,
+from indicator_factory.indicators import (QA_indicator_VR,QA_indicator_VRSI,QA_indicator_VSTD,
                        QA_indicator_BOLL,QA_indicator_MA,QA_indicator_MA_VOL,QA_indicator_ASI,
                        QA_indicator_OBV,QA_indicator_PVT,QA_indicator_VPT,QA_indicator_KDJ,
                        QA_indicator_WR,QA_indicator_ROC,QA_indicator_RSI,QA_indicator_CCI,
