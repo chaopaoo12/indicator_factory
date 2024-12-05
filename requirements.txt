@@ -3,4 +3,3 @@ numpy
 python-math
 matplotlib
 scipy
-talib
