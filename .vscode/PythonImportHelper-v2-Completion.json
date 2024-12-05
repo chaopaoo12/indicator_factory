@@ -45,11 +45,92 @@
         "documentation": {}
     },
     {
-        "label": "*",
-        "importPath": "base",
-        "description": "base",
+        "label": "indicator_factory.base",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "base",
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "isExtraImport": true,
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "CROSS",
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "isExtraImport": true,
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "REF",
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "isExtraImport": true,
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "MA",
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "isExtraImport": true,
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "SUM",
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "isExtraImport": true,
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "LLV",
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "isExtraImport": true,
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "HHV",
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "isExtraImport": true,
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "ABS",
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "isExtraImport": true,
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "STD",
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "isExtraImport": true,
+        "detail": "indicator_factory.base",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "indicator_factory.base",
+        "description": "indicator_factory.base",
+        "isExtraImport": true,
+        "detail": "indicator_factory.base",
         "documentation": {}
     },
     {
@@ -234,87 +315,6 @@
         "description": "indicators",
         "isExtraImport": true,
         "detail": "indicators",
-        "documentation": {}
-    },
-    {
-        "label": "indicator_factory.base",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "indicator_factory.base",
-        "description": "indicator_factory.base",
-        "detail": "indicator_factory.base",
-        "documentation": {}
-    },
-    {
-        "label": "CROSS",
-        "importPath": "indicator_factory.base",
-        "description": "indicator_factory.base",
-        "isExtraImport": true,
-        "detail": "indicator_factory.base",
-        "documentation": {}
-    },
-    {
-        "label": "REF",
-        "importPath": "indicator_factory.base",
-        "description": "indicator_factory.base",
-        "isExtraImport": true,
-        "detail": "indicator_factory.base",
-        "documentation": {}
-    },
-    {
-        "label": "MA",
-        "importPath": "indicator_factory.base",
-        "description": "indicator_factory.base",
-        "isExtraImport": true,
-        "detail": "indicator_factory.base",
-        "documentation": {}
-    },
-    {
-        "label": "SUM",
-        "importPath": "indicator_factory.base",
-        "description": "indicator_factory.base",
-        "isExtraImport": true,
-        "detail": "indicator_factory.base",
-        "documentation": {}
-    },
-    {
-        "label": "LLV",
-        "importPath": "indicator_factory.base",
-        "description": "indicator_factory.base",
-        "isExtraImport": true,
-        "detail": "indicator_factory.base",
-        "documentation": {}
-    },
-    {
-        "label": "HHV",
-        "importPath": "indicator_factory.base",
-        "description": "indicator_factory.base",
-        "isExtraImport": true,
-        "detail": "indicator_factory.base",
-        "documentation": {}
-    },
-    {
-        "label": "ABS",
-        "importPath": "indicator_factory.base",
-        "description": "indicator_factory.base",
-        "isExtraImport": true,
-        "detail": "indicator_factory.base",
-        "documentation": {}
-    },
-    {
-        "label": "STD",
-        "importPath": "indicator_factory.base",
-        "description": "indicator_factory.base",
-        "isExtraImport": true,
-        "detail": "indicator_factory.base",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "indicator_factory.base",
-        "description": "indicator_factory.base",
-        "isExtraImport": true,
-        "detail": "indicator_factory.base",
         "documentation": {}
     },
     {

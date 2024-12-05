@@ -25,7 +25,7 @@
 
 import numpy as np
 import pandas as pd
-from base import *
+from indicator_factory.base import *
 
 """
 DataFrame 类
